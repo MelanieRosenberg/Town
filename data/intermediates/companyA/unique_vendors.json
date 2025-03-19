@@ -1,0 +1,5498 @@
+[
+  {
+    "vendor_name": "Soho House New York",
+    "sample_descriptions": [
+      "SOHO HOUSE NEW Y DES:MEMBERSHIP ID:XXXXX35737 INDN:AVANTE PRICE CO ID:XXXXX95862 WEB",
+      "SOHO HOUSE NEW Y DES:MEMBERSHIP ID:XXXXX37661 INDN:ELI TAYLOR LEMIRE CO ID:XXXXX95862 WEB",
+      "SOHO HOUSE NEW Y DES:MEMBERSHIP ID:XXXXX37558 INDN:AVANTE PRICE CO ID:XXXXX95862 WEB",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Uber Eats",
+    "sample_descriptions": [
+      "PURCHASE 0226 PAYPAL *UBER EATS 402-935-7733 CA XXXXX1540XXXXXXXXXX4457 CKCD 5812 XXXXXXXXXX932315",
+      "PURCHASE 0308 PAYPAL *UBER EATS 402-935-7733 CA XXXXX1540XXXXXXXXXX3478 CKCD 5812 XXXXXXXXXX932315",
+      "PURCHASE 0403 PAYPAL *UBER EATS 402-935-7733 CA XXXXX1540XXXXXXXXXX7746 CKCD 5812 XXXXXXXXXX433113",
+      "PURCHASE 0526 PAYPAL *UBER EATS 402-935-7733 CA XXXXX3841XXXXXXXXXX6936 CKCD 5812 XXXXXXXXXX433113",
+      "Zelle payment to Victor Ochoa for \"Uber Eats\"; Conf# qleux9ttl",
+      "Avante Price\nLast 4: 4479",
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Jace Taylor\nLast 4: 4980",
+      "Tom Lovett\nLast 4: 0976",
+      "Phyllis Thai\nLast 4: 9897",
+      "Kate Collins\nLast 4: 4375",
+      "Shar Brooks\nLast 4: 8256",
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 7309",
+      "Emory Scott\nLast 4: 9828",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Henry Davies\nLast 4: 2327",
+      "Anthony Perrin\nLast 4: 1903",
+      "Kate Collins\nLast 4: 4982",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Kieth Johnson\nLast 4: 5332",
+      "Aristotle Poulakos\nLast 4: 2909",
+      "Avante Price\nLast 4: 3555",
+      "Shar Brooks\nLast 4: 9146",
+      "Daniel Costello\nLast 4: 6190",
+      "Hoyle Wang\nLast 4: 4835",
+      "Patrick Laskowski\nLast 4: 5711",
+      "Danita Constable\nLast 4: 0360",
+      "Sabrina Cohan\nLast 4: 8002",
+      "David Davidov\nLast 4: 8466",
+      "Madison Ramsey\nLast 4: 3307",
+      "Eliseo Cardon\nLast 4: 6977",
+      "Pavlos Tiftikidis\nLast 4: 3783",
+      "Amir Mozafari\nLast 4: 1477",
+      "Shar Brooks\nLast 4: 0093",
+      "Richard Alvarez\nLast 4: 7972",
+      "Camryn Kirk\nLast 4: 0384"
+    ]
+  },
+  {
+    "vendor_name": "Unknown Vendor",
+    "expense_id": 916,
+    "sample_descriptions": [
+      "Zelle payment to Marcel for \"Dinner downpayment 20 percent\"; Conf# qtjies4pm"
+    ]
+  },
+  {
+    "vendor_name": "Unknown Vendor",
+    "expense_id": 920,
+    "sample_descriptions": [
+      "Zelle payment to Marcel for \"Team Dinner - minus downpayment\"; Conf# rqmgd19dg"
+    ]
+  },
+  {
+    "vendor_name": "Max Goldberger",
+    "sample_descriptions": [
+      "Zelle payment to MAX GOLDBERGER for \"Thursday dinner downpayment\"; Conf# owvm1az0s"
+    ]
+  },
+  {
+    "vendor_name": "Frosted Inc.",
+    "sample_descriptions": [
+      "Online Banking Transfer Conf# nuy4uju0q; Frosted Inc."
+    ]
+  },
+  {
+    "vendor_name": "Soho House",
+    "sample_descriptions": [
+      "SOHO HOUSE NEW Y DES:MEMBERSHIP ID:XXXXX35738 INDN:AVANTE PRICE CO ID:XXXXX95862 WEB",
+      "SOHO HOUSE NEW Y DES:MEMBERSHIP ID:XXXXX37559 INDN:AVANTE PRICE CO ID:XXXXX95862 WEB",
+      "Avante Price\nLast 4: 8765",
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 3555",
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Tashi Bhutia",
+    "sample_descriptions": [
+      "Zelle payment to TASHI BHUTIA for \"Arri rental\"; Conf# lyh4301s1"
+    ]
+  },
+  {
+    "vendor_name": "atm",
+    "sample_descriptions": [
+      "BKOFAMERICA ATM 08/19 #XXXXX6707 WITHDRWL SOHO NEW YORK NY CKCD XXXXXXXXXX713936"
+    ]
+  },
+  {
+    "vendor_name": "Butler SOHO",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Lure Fishbar",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765",
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Tom Lovett\nLast 4: 0976",
+      "Avante Price\nLast 4: 3555",
+      "Keven Duran\nLast 4: 5039",
+      "Emory Scott\nLast 4: 9828",
+      "Phyllis Thai\nLast 4: 9897",
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 7309",
+      "Anthony Perrin\nLast 4: 1903",
+      "Kate Collins\nLast 4: 4375",
+      "Amit Roopnarine\nLast 4: 0427",
+      "Shar Brooks\nLast 4: 9146",
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Mangia SoHo - Italian Restaurant, Lunch & Corporate Catering",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Shar Brooks\nLast 4: 8256",
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 7309",
+      "Vanshika Vijayram\nLast 4: 6330",
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Juice Generation",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Blue Bottle Coffee",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Tom Lovett\nLast 4: 0976",
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Molly's Cupcakes",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Nespresso",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Starbucks",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Keven Duran\nLast 4: 5039",
+      "Shar Brooks\nLast 4: 8256",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Patrick Laskowski\nLast 4: 5711",
+      "Brooke Carrobis\nLast 4: 8910",
+      "Gabriela Brown\nLast 4: 7536",
+      "Kieth Johnson\nLast 4: 5332",
+      "Tom Lovett\nLast 4: 0976",
+      "Camryn Kirk\nLast 4: 0384"
+    ]
+  },
+  {
+    "vendor_name": "Bondi Sushi",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Jace Taylor\nLast 4: 4980",
+      "Avante Price\nLast 4: 7309",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Instacart",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Phyllis Thai\nLast 4: 9897",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Ground Support",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Anthony Perrin\nLast 4: 1903",
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Little Cupcake Bakeshop",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Jack's Wife Freda",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765",
+      "Avante Price\nLast 4: 4479",
+      "Emory Scott\nLast 4: 9828",
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 3555",
+      "Avante Price\nLast 4: 7309",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Shar Brooks\nLast 4: 8256",
+      "Amir Mozafari\nLast 4: 1477",
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Emporio Ristorante",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Shar Brooks\nLast 4: 8256",
+      "Keven Duran\nLast 4: 5039",
+      "Jace Taylor\nLast 4: 4980",
+      "Avante Price\nLast 4: 7309",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Stephen Tvedt\nLast 4: 7495",
+      "Shar Brooks\nLast 4: 9146",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "La Esquina",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Urban Backyard",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Balthazar",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 8765",
+      "Shar Brooks\nLast 4: 8256",
+      "Avante Price\nLast 4: 3555",
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Blank Street",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 4479",
+      "Shar Brooks\nLast 4: 8256",
+      "Keven Duran\nLast 4: 5039",
+      "Brooke Carrobis\nLast 4: 8910",
+      "Hoyle Wang\nLast 4: 4835",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Vanshika Vijayram\nLast 4: 6330",
+      "Patrick Laskowski\nLast 4: 5711",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Themba Daniels\nLast 4: 3346",
+      "Camryn Kirk\nLast 4: 0384",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Soho-Ludlow Inc",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "The Dutch",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Tom Lovett\nLast 4: 0976",
+      "Keven Duran\nLast 4: 5039",
+      "Shar Brooks\nLast 4: 8256",
+      "Henry Davies\nLast 4: 2327",
+      "Emory Scott\nLast 4: 9828",
+      "Avante Price\nLast 4: 3555",
+      "Patrick Laskowski\nLast 4: 5711",
+      "Qurubel Asefa\nLast 4: 2292"
+    ]
+  },
+  {
+    "vendor_name": "Shuka",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Keven Duran\nLast 4: 5039",
+      "Phyllis Thai\nLast 4: 9897",
+      "Anthony Perrin\nLast 4: 1903",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Fanelli's Cafe",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765",
+      "Avante Price\nLast 4: 4479",
+      "Shar Brooks\nLast 4: 8256",
+      "Emory Scott\nLast 4: 9828",
+      "Henry Davies\nLast 4: 2327",
+      "Keven Duran\nLast 4: 5039",
+      "Phyllis Thai\nLast 4: 9897",
+      "Anthony Perrin\nLast 4: 1903",
+      "Amir Mozafari\nLast 4: 1477",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Chelsea Piers",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Bake Shop",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Thyme Bar",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Citizens",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "The Golf Club at Chelsea Piers",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Layla",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Bluestone Lane Coffee Shop",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Pick A Bagel",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Famous Ben's Pizza",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Maxwell",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "Ainslie Bowery",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "CAVA NOLITA",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Shar Brooks\nLast 4: 8256",
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 7309",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Nittis",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Factor 75",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Dream Ent",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Chez Maman",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Rintintin",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Pezzella's Villa Napoli",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "Balancero",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Dig Inn",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828",
+      "Shar Brooks\nLast 4: 8256",
+      "Avante Price\nLast 4: 4479",
+      "Keven Duran\nLast 4: 5039",
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 7309",
+      "Jace Taylor\nLast 4: 4980",
+      "Anthony Perrin\nLast 4: 1903",
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Wegman's",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Smashed",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Shar Brooks\nLast 4: 8256",
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "The Radar",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 6097"
+    ]
+  },
+  {
+    "vendor_name": "The Holiday Bar",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765",
+      "Danita Constable\nLast 4: 0360",
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Outer Heaven",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903",
+      "Avante Price\nLast 4: 8765",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Vesuvio Cafe",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "AllModern",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 6097"
+    ]
+  },
+  {
+    "vendor_name": "Chipotle",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828",
+      "Shar Brooks\nLast 4: 8256",
+      "Avante Price\nLast 4: 4479",
+      "Anthony Perrin\nLast 4: 1903",
+      "Eliseo Cardon\nLast 4: 6977",
+      "Kieth Johnson\nLast 4: 5332",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Eric Moran\nLast 4: 2009",
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Kim Son Restaurant",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765",
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "akemiwrld",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 6097"
+    ]
+  },
+  {
+    "vendor_name": "Bottle",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "LevelUp",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828",
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Heavenly Market and Deli",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Bowery Meat Company",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "Mochidoki",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Soho Beach House",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 8765",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Event Concessions",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Shar Brooks\nLast 4: 8256",
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "MBR MIAMI BRICKELL OPERATIONS LLC",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Shar Brooks\nLast 4: 8256",
+      "Ali Alobaidi\nLast 4: 9955",
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "JUUCE",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Moo Bong Ri (MBR Oakland)",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Miami Fusion",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Bel-Fries",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Novikov Miami",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "Skyviews Miami Observation Wheel",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "Pollos & Jarras",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "Green Leafs",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 7309",
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Moxy",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "NewsLink",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "The Social at Midtown",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "The Walker Tribeca",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976",
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "JP's Family Restaurant & Sports Lounge",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Regina's",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828",
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Baked By Melissa",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "Sweet & Vicious",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Gopuff",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Phyllis Thai\nLast 4: 9897",
+      "Avante Price\nLast 4: 7309",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Shar Brooks\nLast 4: 0093"
+    ]
+  },
+  {
+    "vendor_name": "St. Anthony Hall",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 6097"
+    ]
+  },
+  {
+    "vendor_name": "GrubHub",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Parm Mulberry Street",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 7309",
+      "Amir Mozafari\nLast 4: 1477",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Bounce House",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 6097"
+    ]
+  },
+  {
+    "vendor_name": "Zyn",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "XTA Cocina Mexicana + Mezcal Bar",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Bryant Park",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Keven Duran\nLast 4: 5039",
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Stubb's Bar-B-Q",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "Turf N' Surf Po Boy",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "NADC Burger",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Lamberts",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "Belle Hill Dinning",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 6097"
+    ]
+  },
+  {
+    "vendor_name": "Wu Chow",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "Ristorante Due Rose",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "Fellini Coffeebar",
+    "sample_descriptions": [
+      "Ali Alobaidi\nLast 4: 9955",
+      "Phyllis Thai\nLast 4: 9897",
+      "Keven Duran\nLast 4: 5039",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Shar Brooks\nLast 4: 8256",
+      "Avante Price\nLast 4: 7309",
+      "Kate Collins\nLast 4: 4375",
+      "Patrick Laskowski\nLast 4: 5711",
+      "Aristotle Poulakos\nLast 4: 2909",
+      "Andrew Wise\nLast 4: 1352",
+      "Gabriela Brown\nLast 4: 7536",
+      "Amir Mozafari\nLast 4: 1477",
+      "Hoyle Wang\nLast 4: 4835",
+      "Kieth Johnson\nLast 4: 5332",
+      "Qurubel Asefa\nLast 4: 2292",
+      "Vanshika Vijayram\nLast 4: 6330",
+      "Shar Brooks\nLast 4: 9146"
+    ]
+  },
+  {
+    "vendor_name": "Todoroki Hibachi and Sushi",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "Austin Airport",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Publican",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "MakiMaki Sushi",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "SUSHI DOKKU",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765"
+    ]
+  },
+  {
+    "vendor_name": "The Miramar Theatre",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Time Out Market",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "The Setai Restaurant",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 8765",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Jamba Juice",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Gabriela Brown\nLast 4: 7536",
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Serena",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Fabel Miami",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "1-800-Lucky",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Delilah",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Grand Bar",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Joe's Pizza",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Blind Barber",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Camryn Kirk\nLast 4: 0384",
+      "Keven Duran\nLast 4: 5039",
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Dim Sum Palace",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "P & Y Cafe Asian Bistro",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Tucci - New York",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Mr. Purple",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Nobu Miami",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 3555",
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Joshy K",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Lupe's Burritos",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "La Cabra",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897",
+      "Keven Duran\nLast 4: 5039",
+      "Kate Collins\nLast 4: 4375",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Avante Price\nLast 4: 7309",
+      "Patrick Laskowski\nLast 4: 5711",
+      "Qurubel Asefa\nLast 4: 2292",
+      "Hoyle Wang\nLast 4: 4835",
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Prince Street Pizza",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "Le Pain Quotidien",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Le Botaniste",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Jace Taylor\nLast 4: 4980",
+      "Shar Brooks\nLast 4: 8256",
+      "Vanshika Vijayram\nLast 4: 6330",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Sabrina Cohan\nLast 4: 8002",
+      "Katherine Scott\nLast 4: 0325",
+      "Gabriela Brown\nLast 4: 7536",
+      "Chelsea Alterman\nLast 4: 0358",
+      "Shar Brooks\nLast 4: 0093",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Zooba",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828",
+      "Aristotle Poulakos\nLast 4: 2909",
+      "Qurubel Asefa\nLast 4: 2292"
+    ]
+  },
+  {
+    "vendor_name": "Dos Caminos",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Altesi Downtown",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Bosco's Roadhouse",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 3555",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "La Colombe",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 4479",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Kate Collins\nLast 4: 4375",
+      "Gabriela Brown\nLast 4: 7536",
+      "Avante Price\nLast 4: 7309",
+      "Qurubel Asefa\nLast 4: 2292",
+      "Aristotle Poulakos\nLast 4: 2909",
+      "Hoyle Wang\nLast 4: 4835",
+      "Sabrina Cohan\nLast 4: 8002",
+      "Shar Brooks\nLast 4: 8256",
+      "Shar Brooks\nLast 4: 9146"
+    ]
+  },
+  {
+    "vendor_name": "Seamless",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "UBS Arena",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "5th & Mad",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Gallup",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "Westville",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Emory Scott\nLast 4: 9828",
+      "Kate Collins\nLast 4: 4375",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Shar Brooks\nLast 4: 8256",
+      "Jace Taylor\nLast 4: 4980",
+      "Shar Brooks\nLast 4: 9146",
+      "Madison Ramsey\nLast 4: 3307"
+    ]
+  },
+  {
+    "vendor_name": "The Tyger",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Green Planet Organics",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Ground Support Cafe",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 7309",
+      "Tom Lovett\nLast 4: 0976",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Phyllis Thai\nLast 4: 9897",
+      "Amit Roopnarine\nLast 4: 0427",
+      "Anthony Perrin\nLast 4: 1903",
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Cove 37",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Short Stories",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "DoorDash",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Keven Duran\nLast 4: 5039",
+      "Kieth Johnson\nLast 4: 5332",
+      "Hoyle Wang\nLast 4: 4835",
+      "Natalie Lucas\nLast 4: 0508",
+      "Shar Brooks\nLast 4: 0093"
+    ]
+  },
+  {
+    "vendor_name": "Trader Joe's",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Regina's Grocery - Mulberry",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Phyllis Thai\nLast 4: 9897",
+      "Emory Scott\nLast 4: 9828",
+      "Avante Price\nLast 4: 7309",
+      "Keven Duran\nLast 4: 5039",
+      "David Davidov\nLast 4: 8466",
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Westlight",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Smile To Go",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 7309",
+      "Shar Brooks\nLast 4: 9146",
+      "Hoyle Wang\nLast 4: 4835",
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Momoya",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555",
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 7309",
+      "Hoyle Wang\nLast 4: 4835",
+      "Kate Collins\nLast 4: 4375"
+    ]
+  },
+  {
+    "vendor_name": "Fresh Market",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Felix Roasting Co",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Shar Brooks\nLast 4: 8256",
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 7309",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "Joe & The Juice",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Avante Price\nLast 4: 7309",
+      "Gabriela Brown\nLast 4: 7536",
+      "Keven Duran\nLast 4: 5039",
+      "Amir Mozafari\nLast 4: 1477",
+      "Shar Brooks\nLast 4: 8256",
+      "Katherine Scott\nLast 4: 0325"
+    ]
+  },
+  {
+    "vendor_name": "Suggi Oota Take-Out",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Irish American Club",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Los Tacos",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903",
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 7309",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "1st Gen",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Broadway via insta",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "South Soho Bar",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Dr Smood - Orchard",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Eats",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "BurgerIM Gourmet Burgers (Halal)",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Kaffe Landskap NYC (South)",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Bubby's",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Tacombi",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Henry Davies\nLast 4: 2327",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Pavlos Tiftikidis\nLast 4: 3783",
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Keens Steakhouse",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "ENLY",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897",
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Chobani Cafe",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Major Food Group",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "SUGARFISH",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Seaport Wine & Spirits",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Omakase",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Village Market",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Dudley's",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Baby Blues BBQ",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Barbounia",
+    "sample_descriptions": [
+      "Ali Alobaidi\nLast 4: 9955"
+    ]
+  },
+  {
+    "vendor_name": "Bluestonelane",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Masseria Caffe & Bakery",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Dominique Ansel Bakery",
+    "sample_descriptions": [
+      "Ali Alobaidi\nLast 4: 9955",
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Mustang Harry's",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Eat Offbeat",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "Museo Pardo",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Underground Production",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "S.j.t. Prince LLC",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828",
+      "Anthony Perrin\nLast 4: 1903",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Broadway Gourmet",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Alex Market",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Soho Gardens",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "San Paolo",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "The Chipped Cup",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "7-Eleven",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Grace Deli & Cafe",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Perk Coffee",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Lot 45 LLC",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "La Pecora Bianca Bryant Park",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Avante Price\nLast 4: 7309",
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "Onigiri Tanakaya",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "Panther Coffee",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Little Maven",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Chick-Fil-A",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Henry Davies\nLast 4: 2327",
+      "Gabriela Brown\nLast 4: 7536",
+      "Shar Brooks\nLast 4: 8256",
+      "Kieth Johnson\nLast 4: 5332",
+      "Madison Ramsey\nLast 4: 3307"
+    ]
+  },
+  {
+    "vendor_name": "L'Accolade",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Spruce",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Proper Food",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Golden Diner",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Momofuku Noodle Bar",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Earthbar",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555",
+      "Gabriela Brown\nLast 4: 7536",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "The Commerce Inn",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Pera Soho Restaurant",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479"
+    ]
+  },
+  {
+    "vendor_name": "Manero's of Mulberry",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 4479",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Banter NYC",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Think Coffee",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555",
+      "Stephen Tvedt\nLast 4: 7495",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Hoyle Wang\nLast 4: 4835",
+      "Emory Scott\nLast 4: 9828",
+      "Sabrina Cohan\nLast 4: 8002",
+      "Natalie Lucas\nLast 4: 0508",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "KYU NYC",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "McDonald's",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Keven Duran\nLast 4: 5039",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Henry Davies\nLast 4: 2327",
+      "Patrick Laskowski\nLast 4: 5711",
+      "Brooke Carrobis\nLast 4: 8910",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Mike's Mini Mart",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Silvia's food truck",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Panera Bread",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Alexis Diner",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Billy Joe's Ribworks",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Shoo Shoo",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Boba Guys",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Equator Coffees",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Sweet Chick",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Kate Collins\nLast 4: 4375"
+    ]
+  },
+  {
+    "vendor_name": "Mariscos Y Taqueria Ixpalino Sinaloa",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "IC Brooklyn Cafe",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Spring Lounge",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Emory Scott\nLast 4: 9828",
+      "David Davidov\nLast 4: 8466",
+      "Anthony Perrin\nLast 4: 1903",
+      "Tom Lovett\nLast 4: 0976",
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "More Soup Please Events",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "The Juicers Juice",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Emory Scott\nLast 4: 9828",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "TCE Presents",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Gnocco",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Hall of Flame Burger",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Ding-a-ling",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Busy Bee Cafe",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Butler Bakeshop & Espresso Bar",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Avante Price\nLast 4: 3555",
+      "Katherine Scott\nLast 4: 0325",
+      "Hoyle Wang\nLast 4: 4835",
+      "Natalie Lucas\nLast 4: 0508",
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Marcel",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Boxcar Theatre",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Uber Eats Partner Center Shinsaibashi",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 2868",
+      "Jace Taylor\nLast 4: 4980",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Sporty & Rich",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Sodini's",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 7359"
+    ]
+  },
+  {
+    "vendor_name": "Curry Up Now",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Saigon Social",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976",
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Sylvia's Restaurant",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 6097"
+    ]
+  },
+  {
+    "vendor_name": "5ive Spice Taco & Banh Mi",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Amit Roopnarine\nLast 4: 0427",
+      "Avante Price\nLast 4: 7309",
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Sammy's Woodfired Pizza",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "The Night Market",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "J.P. Kempt Barber & Social",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Odd Sister",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "All'antico Vinaio",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Salama Halal Meat",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Olivier's Butchery",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Bar Veloce",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Elsewhere",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Ramen Station",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "12 Chairs Cafe",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Soho Dumbo Inc",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Grabstein's Bagel",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Cache Life",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Wild Flour",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Basil the Bold - Grab & Go Location",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "La Cabra Bakery",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "The Hat",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Mint Masala",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Broken Yolk Cafe",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "House of Wagyu Stonegrill",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Mikaku Restaurant",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Wholefoods",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Wolfgang's Steakhouse by Wolfgang Zwiener",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Rosa Mexicano",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Buddakan",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Sights & Sounds",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Silverlake Wine",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Panda Express",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Menya Kokoro Ramen Izakaya The Podium",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Teppanya Shangri-La Plaza",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Petco",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Healthy Options",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Mercury Drug Corp",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Wooden Charcoal Korean Village Barbecue House",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Watsons Shangri-La Plaza",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Elephant Grounds Manila - Podium",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "World Wine Group Inc",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "grab and go market",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Salad Power",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Super Pollos Rostizados",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "La Mercerie",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Brooklyn Denim",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Rapha New York",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "Laissez Faire Bar",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Soho Hotel",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Blue Ribbon Sushi",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Emory Scott\nLast 4: 9828",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "La Esquina Brasserie",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Prince Deli",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Shar Brooks\nLast 4: 8256",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Cafe Select",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Avante Price\nLast 4: 7309",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Ace's Bar",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Empanada Mama",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "9 Bob Note",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Broadway Market",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Coffee Roasters",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897",
+      "Aristotle Poulakos\nLast 4: 2909"
+    ]
+  },
+  {
+    "vendor_name": "taim mediterranean kitchen",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Emory Scott\nLast 4: 9828",
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Jardins la Cle du Sol",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "We Met at Acme Events",
+    "sample_descriptions": [
+      "David Davidov\nLast 4: 8466",
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "WAWA",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Caffeccino",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Ocean HQ Day Club",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Kuro Restuarant & Bar",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Kuro Restaurant & Bar",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Dos Toros Taqueria",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "TRG",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Chelsea Bagel and Cafe",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Freedom Wine & Spirits",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Chelsea Deli Corp",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Sapphire Deli",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Nom Wah Nolita",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976",
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Van Leeuween Ice Cream",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Martia Rentals",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Hogsalt",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Lan Larb Chiang Mai",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976",
+      "Madison Ramsey\nLast 4: 3307"
+    ]
+  },
+  {
+    "vendor_name": "Genki Ya Sushi",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Shar Brooks\nLast 4: 0093"
+    ]
+  },
+  {
+    "vendor_name": "Gadfly Bar",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Walker Hotel Tribeca",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976",
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Clubview Records",
+    "sample_descriptions": [
+      "Kate Collins\nLast 4: 4375"
+    ]
+  },
+  {
+    "vendor_name": "Soho Lemontree Inc.",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Keven Duran\nLast 4: 5039",
+      "Eric Moran\nLast 4: 2009",
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Bond Street Restaurant",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Dunkin Donuts",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Henry Davies\nLast 4: 2327",
+      "Patrick Laskowski\nLast 4: 5711",
+      "Natalie Lucas\nLast 4: 0508"
+    ]
+  },
+  {
+    "vendor_name": "Mulberry's Market",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Juice Girl",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Hudson Market",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Cafe Lyria",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327",
+      "Brooke Carrobis\nLast 4: 8910",
+      "Phyllis Thai\nLast 4: 9897",
+      "Amir Mozafari\nLast 4: 1477",
+      "Kate Collins\nLast 4: 4375",
+      "Pavlos Tiftikidis\nLast 4: 3783",
+      "SQ *CAFE LYRIA pste_cm480606n0ipt01oehqi0ykth"
+    ]
+  },
+  {
+    "vendor_name": "Balvanera",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Sunday to Sunday Cafe",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "SIXTY Beverly Hills",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "The Little Owl Restuarant",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Bivy Cafe",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "Shilling Canning Company",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "The Jetty",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Daily Provisions",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Patrick Laskowski\nLast 4: 5711",
+      "Chelsea Alterman\nLast 4: 0358",
+      "Henry Davies\nLast 4: 2327",
+      "Madison Ramsey\nLast 4: 3307"
+    ]
+  },
+  {
+    "vendor_name": "Le Diplomate",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "El Secreto De Rosita",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Barcelona Wine Bar",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Ada's on the River",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Ciel Social Club",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "THISBOWL",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Chaplin's Restaurant",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "&pizza - Dupont",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Jimmy at Modernhaus",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Space Karaoke Bar & Lounge | Koreatown NYC",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "The Garden Brunch Cafe Memphis",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Cipriani Downtown (New York City)",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Gabriel's Bar & Restaurant",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Nubeluz",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Teddy Eisenstein",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Chinese Tuxedo",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Fish Cheeks",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "The Wooly",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Mayamezcal",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Swoope Presents",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Sounds Of Brazil",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Daniel Costello\nLast 4: 6190",
+      "Emory Scott\nLast 4: 9828",
+      "Aristotle Poulakos\nLast 4: 2909",
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Townhouse",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Shar Brooks\nLast 4: 0093"
+    ]
+  },
+  {
+    "vendor_name": "Wei's - Williamsburg",
+    "sample_descriptions": [
+      "Kate Collins\nLast 4: 4375"
+    ]
+  },
+  {
+    "vendor_name": "Vesuvio Bakery",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Jace Taylor\nLast 4: 4980",
+      "Avante Price\nLast 4: 7309",
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Jewel OSCO",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Antique Garage",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "La Pecora Bianca",
+    "sample_descriptions": [
+      "Stephen Tvedt\nLast 4: 7495",
+      "Keven Duran\nLast 4: 5039",
+      "Teddy Eisenstein\nLast 4: 4332",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Avante Price\nLast 4: 7309",
+      "Brooke Carrobis\nLast 4: 8910"
+    ]
+  },
+  {
+    "vendor_name": "Eataly",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897",
+      "Avante Price\nLast 4: 7309",
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Matchaful",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Vanshika Vijayram\nLast 4: 6330",
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "Ambra Cucina Italiana",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Drip Drop Cafe, coffee shop",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Phyllis Thai\nLast 4: 9897",
+      "Avante Price\nLast 4: 7309",
+      "Shar Brooks\nLast 4: 9146",
+      "Kate Collins\nLast 4: 4375",
+      "Brooke Carrobis\nLast 4: 8910",
+      "Daniel Costello\nLast 4: 6190",
+      "Vanshika Vijayram\nLast 4: 6330"
+    ]
+  },
+  {
+    "vendor_name": "Bar Valentina",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "L.A. Burdick Chocolate",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Poke Bowl",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Shake Shack Valley Fair",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256",
+      "Natalie Lucas\nLast 4: 0508"
+    ]
+  },
+  {
+    "vendor_name": "Headbang Society",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Jersey Creators Market",
+    "sample_descriptions": [
+      "Kate Collins\nLast 4: 4375"
+    ]
+  },
+  {
+    "vendor_name": "Maman",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Keven Duran\nLast 4: 5039",
+      "Jace Taylor\nLast 4: 8630",
+      "Natalie Lucas\nLast 4: 0508",
+      "Sabrina Cohan\nLast 4: 8002"
+    ]
+  },
+  {
+    "vendor_name": "Saturdays NYC Crosby St",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Avante Price\nLast 4: 7309",
+      "Hoyle Wang\nLast 4: 4835",
+      "Sabrina Cohan\nLast 4: 8002",
+      "Keven Duran\nLast 4: 5039",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Vanshika Vijayram\nLast 4: 6330",
+      "Eliseo Cardon\nLast 4: 6977",
+      "Qurubel Asefa\nLast 4: 2292",
+      "Amir Mozafari\nLast 4: 1477",
+      "Jace Taylor\nLast 4: 4980",
+      "Shar Brooks\nLast 4: 0093",
+      "Emory Scott\nLast 4: 9828",
+      "Danita Constable\nLast 4: 0360",
+      "Tom Lovett\nLast 4: 0976",
+      "Chelsea Alterman\nLast 4: 0358",
+      "John Tyranski\nLast 4: 6703",
+      "Natalie Yaplee\nLast 4: 9870"
+    ]
+  },
+  {
+    "vendor_name": "Pera Soho",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903",
+      "Tom Lovett\nLast 4: 0976",
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "MacDougal Street Ale House",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "19 Cleveland",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976",
+      "Emory Scott\nLast 4: 9828",
+      "Aristotle Poulakos\nLast 4: 2909",
+      "Avante Price\nLast 4: 7309",
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Hawksmoor NYC",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Events by Andrea",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Whitehorse Tavern",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Shabbat Club",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Olives at Building 160",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "WHITE NOISE COFFEE CO.",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Cafeteria",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Sartiano's",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555",
+      "Avante Price\nLast 4: 7309",
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Jabari Hssto",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Upside Pizza",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Los Tacos 1",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Altro Paradiso",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "TESO LIFE",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "In the City",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "David Davidov\nLast 4: 8466"
+    ]
+  },
+  {
+    "vendor_name": "Erica's Convenient Deli",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "C as in Charlie",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Shoo Shoo Nolita",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Boqueria Soho",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "The Event Helper",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536",
+      "Jace Taylor\nLast 4: 4980",
+      "Jace Taylor\nLast 4: 8795"
+    ]
+  },
+  {
+    "vendor_name": "Unknown Vendor",
+    "expense_id": 9967,
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "99 Scott Studio",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897",
+      "Anthony Perrin\nLast 4: 1903",
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Enlightenment Wines Meadery",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "Lb",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Ruby's Cafe",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Jim's Burgers #8",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Black Tap Craft Burgers & Beer - SoHo",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Moby",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Bravo Supermarket",
+    "sample_descriptions": [
+      "Kate Collins\nLast 4: 4375"
+    ]
+  },
+  {
+    "vendor_name": "A & R News & Candy",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Rossi Pizzeria",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Avec Restuarant",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "No Vacancy",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Beatrix",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "5411 Empanadas",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Fiorello Market",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Evolve By Hudson",
+    "sample_descriptions": [
+      "Brooke Carrobis\nLast 4: 8910",
+      "Henry Davies\nLast 4: 2327",
+      "Kieth Johnson\nLast 4: 5332",
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Kashmir",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711",
+      "Eliseo Cardon\nLast 4: 6977",
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Kolkata Chai Cafe",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "Giordano's on Rush",
+    "sample_descriptions": [
+      "Brooke Carrobis\nLast 4: 8910"
+    ]
+  },
+  {
+    "vendor_name": "Gracie's",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Burger King",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327",
+      "Keven Duran\nLast 4: 5039",
+      "Patrick Laskowski\nLast 4: 5711",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Uncle Lou",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Comedy in Harlem",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "La Provence Cafe",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "CAVA",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Hamburger America",
+    "sample_descriptions": [
+      "David Davidov\nLast 4: 8466",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Dionysus",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "The Woo",
+    "sample_descriptions": [
+      "Aristotle Poulakos\nLast 4: 2909"
+    ]
+  },
+  {
+    "vendor_name": "Soho Bistro",
+    "sample_descriptions": [
+      "Aristotle Poulakos\nLast 4: 2909"
+    ]
+  },
+  {
+    "vendor_name": "Stone Street Cafe",
+    "sample_descriptions": [
+      "Aristotle Poulakos\nLast 4: 2909",
+      "Chelsea Alterman\nLast 4: 0358",
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Lemon Tree Gourmet Deli",
+    "sample_descriptions": [
+      "Amit Roopnarine\nLast 4: 0427"
+    ]
+  },
+  {
+    "vendor_name": "Faicco's Italian Specialties",
+    "sample_descriptions": [
+      "David Davidov\nLast 4: 8466"
+    ]
+  },
+  {
+    "vendor_name": "Ocean Restaurants",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "YUBU SoHo",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Pi Bakerie",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Daniel Costello\nLast 4: 6190",
+      "Aristotle Poulakos\nLast 4: 2909"
+    ]
+  },
+  {
+    "vendor_name": "Grandaisy Bakery",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Blue & Gold Bar",
+    "sample_descriptions": [
+      "Phyllis Thai\nLast 4: 9897"
+    ]
+  },
+  {
+    "vendor_name": "ILIS",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Blue Haven",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Happiness Cafe",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "La Tropicana Market",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Village Farm Grocery",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "The Happy Clam",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Cibo Express",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536",
+      "John Tyranski\nLast 4: 6703",
+      "Camryn Kirk\nLast 4: 0384",
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "The Lark",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Red Robin Gourmet Burgers and Brews",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Carmelinas Taqueria",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Artichoke",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Taqueria El Farolito",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Philz Coffee",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Live Sushi Bar",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Noodlelove",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "In-N-Out Burger",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711",
+      "Henry Davies\nLast 4: 2327",
+      "Brooke Carrobis\nLast 4: 8910",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "The Scoop Ice Cream Cafe",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Dogpatch",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Kuu Ramen",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "High Flying Foods",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332",
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Zinc Cafe & Market",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Lark Creek Grill",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Viva Vegan",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Soho House Holloway",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "United Pacific",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Urth Caffe",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711",
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Laurel Hardware",
+    "sample_descriptions": [
+      "Brooke Carrobis\nLast 4: 8910",
+      "Keven Duran\nLast 4: 5039",
+      "Gabriela Brown\nLast 4: 7536",
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Alfred Coffee",
+    "sample_descriptions": [
+      "Brooke Carrobis\nLast 4: 8910"
+    ]
+  },
+  {
+    "vendor_name": "Chicken & Beer",
+    "sample_descriptions": [
+      "Brooke Carrobis\nLast 4: 8910"
+    ]
+  },
+  {
+    "vendor_name": "Fisherman's Outlet",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Bacari Sherman Oaks",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Elephant Sushi",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Tail O' the Pup",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Saboresoa",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Carousel",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "The Vitamin Store",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Brewlita",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Rollcall",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Yangban",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Tin Building by Jean-Georges",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Stereoscope Coffee",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Bacari Silverlake + Bar Bacari",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "CSC Servicework",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Ademify Restaurant",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Shar Brooks\nLast 4: 9146",
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Theodora Bakery",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002"
+    ]
+  },
+  {
+    "vendor_name": "Classic Arepas",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Le Gout - Bakery and Cafe",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "GDP",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Cinnaholic",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Charlie Roman Hot Club",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Yard House",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Superba Food + Bread Hollywood",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Sant Ambroeus",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Larchmont Bungalow Cafe",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Laduree",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "The Elk",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835",
+      "SQ *THE ELK ON MOTT pste_cm49g1pxd1gym01o2ykeiqd13"
+    ]
+  },
+  {
+    "vendor_name": "In The Cuts Barbershop",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Soho Diner",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Shar Brooks\nLast 4: 8256",
+      "Avante Price\nLast 4: 3555",
+      "Shar Brooks\nLast 4: 9146",
+      "Chelsea Alterman\nLast 4: 0358",
+      "Sabrina Cohan\nLast 4: 8002",
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Shar Brooks\nLast 4: 0093",
+      "Qurubel Asefa\nLast 4: 2292"
+    ]
+  },
+  {
+    "vendor_name": "Bar Lounge",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Copa Caban",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Los Altos Taqueria",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Bedford Studio",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835",
+      "Vanshika Vijayram\nLast 4: 6330"
+    ]
+  },
+  {
+    "vendor_name": "B-Side",
+    "sample_descriptions": [
+      "David Davidov\nLast 4: 8466"
+    ]
+  },
+  {
+    "vendor_name": "Tender Greens",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Italy Convenience & More",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Iberia Inflight",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Flygerian & Showcase",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Leon's Bagels",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "FlyFish Club",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "BEEPUBLIC",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Pretty Ricky's",
+    "sample_descriptions": [
+      "Amit Roopnarine\nLast 4: 0427",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Broome Street Bar",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "7th Street Burger",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828",
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Beat the Bomb",
+    "sample_descriptions": [
+      "Aristotle Poulakos\nLast 4: 2909"
+    ]
+  },
+  {
+    "vendor_name": "Nancy Whiskey Pub",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002",
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Gem Wine",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "P&T Knitwear Bookstore, Coffee, & Podcast Studio",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Banter Wine",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Sweetgreen",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828",
+      "Madison Ramsey\nLast 4: 3307"
+    ]
+  },
+  {
+    "vendor_name": "Mint House at 70 Pine - NYC",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828"
+    ]
+  },
+  {
+    "vendor_name": "Essex Restaurant",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Juice Press, LLC",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Jean's",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002",
+      "Emory Scott\nLast 4: 9828",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Harry's",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "The Wren",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Breakfast Republic",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "CBDK",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Luzzo's La Pizza Napoletana & Bakery",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Levy Restuarant",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "No. 1 Chinese",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Halo deli inc",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Convenience Store",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Wendy's",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Max's of Burlingame",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "S&P Lunch",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Parcelle Greenwich Village",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626",
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Dumbo House",
+    "sample_descriptions": [
+      "Aristotle Poulakos\nLast 4: 2909",
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "INDAY",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Chelsea Alterman\nLast 4: 0358",
+      "Keven Duran\nLast 4: 5039",
+      "Henry Davies\nLast 4: 2327",
+      "Sabrina Cohan\nLast 4: 8002",
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Pastis",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Irish Repertory Theatre",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 8256"
+    ]
+  },
+  {
+    "vendor_name": "Sushi Mesh Bag",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Burrito King",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Old Fashion Cafe",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Baya Bar - Acai & Smoothie Shop",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "The Original",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Fuel Fever",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Popeyes Louisiana Kitchen",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Kieth Johnson\nLast 4: 5332",
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Uncle Louie",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Slainte Bar and Lounge",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Winnie's Bar",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002",
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "New Deli",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Magnolia Bakery",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Rodeo Mexican",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Mendocino Farms",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Fred 62",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Calif Chicken Cafe",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Breakfast",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "HMS Host International",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Up Thai",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Sugar mouse",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "390 SOCIAL",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Het Sieraad Bv",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "V'Leisure I-Dock B.V.",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Wildbird",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Drinks First",
+    "sample_descriptions": [
+      "David Davidov\nLast 4: 8466",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Clark Street",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Crafted Donuts & Bagels",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Kobrick Coffee Co.",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Plein V Reese",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Andaz Armsterdam Prinse",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Cafe De Zwart",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "The Flower",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 9146"
+    ]
+  },
+  {
+    "vendor_name": "Puro Michoacan Restaurant",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Alice",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Dado's Pizza",
+    "sample_descriptions": [
+      "Aristotle Poulakos\nLast 4: 2909"
+    ]
+  },
+  {
+    "vendor_name": "Front Society Events",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Bite",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Holy Pita",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002"
+    ]
+  },
+  {
+    "vendor_name": "Famous Desserts by The Cheesecake Factory (Located in DoorDash Kitchens)",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Sabrina GG",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002"
+    ]
+  },
+  {
+    "vendor_name": "Coffeebar",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264",
+      "David Davidov\nLast 4: 8466",
+      "Sabrina Cohan\nLast 4: 8002"
+    ]
+  },
+  {
+    "vendor_name": "Valerie Echo Park",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Hungry House",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Eventbrite",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Catch One",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Mirari",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Qurubel Asefa\nLast 4: 2292",
+      "Avante Price\nLast 4: 7309",
+      "Teddy Eisenstein\nLast 4: 6264"
+    ]
+  },
+  {
+    "vendor_name": "Planet Fitness",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Claro's Italian Markets",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "PUBLIC Hotel",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Forest Hills",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Forage Kitchen",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Champion Pizza",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Kith Lafayette St.",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "4 Star Motel",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Subway",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Porto's Bakery and Cafe",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "The Lost Draft",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Wiches on Wilshire",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Mani Brothers, LLC",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Citizens Of Soho",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Chelsea Alterman\nLast 4: 0358"
+    ]
+  },
+  {
+    "vendor_name": "Flaunt",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Westville Wall",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Little Bee Bakery",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Thai Diner",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Pokeworks",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Granite Links",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Tacos Mexico Taco truck",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Smoke Gift & Convenience 2",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "LAI Fu 88 Grocery",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Thai Son",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Alfred",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Auntie Anne's",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309",
+      "Shar Brooks\nLast 4: 9146"
+    ]
+  },
+  {
+    "vendor_name": "Betong - Khao Man Gai",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Cha Cha Matcha",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "Peddler",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Ralphs",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "86th Street Grocery",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Charles Hanson's",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Avante Price\nLast 4: 3555",
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "The Eagle",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Williams Grab & Go",
+    "sample_descriptions": [
+      "Pavlos Tiftikidis\nLast 4: 3783"
+    ]
+  },
+  {
+    "vendor_name": "La Brea Bakery",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Insomnia Cookies",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 9146"
+    ]
+  },
+  {
+    "vendor_name": "Au Cheval",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Little Rascals Restuarant",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Starr",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Mel's Drive-In",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Sip & Sonder",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Hilltop Coffee + Kitchen - Inglewood",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Market & Main",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Phoenicia Specialty FD",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Rule of Thirds",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Cranky Carrot Juice Co.",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Radegast Hall & Biergarten",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Papalo Taqueria",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Three Keys Coffee",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "ForgetMeNot",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Shake Shack Stanford Shopping Center",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Ike's Love & Sandwiches",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Carol Kays",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Jack in the Box",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039",
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Coffee Partners LP",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Onieal's",
+    "sample_descriptions": [
+      "Teddy Eisenstein\nLast 4: 6264",
+      "Kate Collins\nLast 4: 4375",
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Good Thanks Cafe",
+    "sample_descriptions": [
+      "Pavlos Tiftikidis\nLast 4: 3783"
+    ]
+  },
+  {
+    "vendor_name": "Black Brick Coffee",
+    "sample_descriptions": [
+      "Pavlos Tiftikidis\nLast 4: 3783"
+    ]
+  },
+  {
+    "vendor_name": "Rex",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Jane Q",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Blend Williamsburg",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Electric Lemon",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Black Walnut Cafe",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Broadway Spirits",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Listen Brooklyn",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Casa Thirteen",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "Hilltop Coffee + Kitchen - Eagle Rock",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "The Buena Vista",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Sprouts Farmers Market",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Raouls",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "A-Frame Cafe",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536"
+    ]
+  },
+  {
+    "vendor_name": "Proud Mary Cafes",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Manero's Pizza",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Palm Tree Crew",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190",
+      "Avante Price\nLast 4: 7309"
+    ]
+  },
+  {
+    "vendor_name": "SAGA",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Pelons Red River",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Line Austin Food & Bev",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Terry Black's Barbecue",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Neighborhood Sushi",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Van Line",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Devil May Care",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "ATX Cocina",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Comadre Panaderia",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Domino's Pizza",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Gina's on Congress",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Rain on 4th",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "La Rubia",
+    "sample_descriptions": [
+      "Gabriela Brown\nLast 4: 7536",
+      "Keven Duran\nLast 4: 5039",
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Courtyard Marriott",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360",
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Gen Korean BBQ House",
+    "sample_descriptions": [
+      "Emory Scott\nLast 4: 9828",
+      "Natalie Lucas\nLast 4: 0508",
+      "Katherine Scott\nLast 4: 0325"
+    ]
+  },
+  {
+    "vendor_name": "Hut's Burger",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Noble Sandwich",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Le Gigot",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Pershing",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "KG BBQ",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Blenders & Bowls",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Brooklyn Storehouse",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Revolucionsa",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Musica",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Port Sa'id",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Bells Consulting",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "3rd Base",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Takami/Elevate Lounge",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Do Not Feed Alligators",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Planet Juice",
+    "sample_descriptions": [
+      "Katherine Scott\nLast 4: 0325"
+    ]
+  },
+  {
+    "vendor_name": "{petite} maman",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002"
+    ]
+  },
+  {
+    "vendor_name": "Vons",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Magpie Taproom",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Wholesome Bites NY",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "DAMNFiNE pizza",
+    "sample_descriptions": [
+      "Natalie Lucas\nLast 4: 0508"
+    ]
+  },
+  {
+    "vendor_name": "Roscoes House",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Havana 1957 Cuban Cuisine Espanola Way",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "The Sunday",
+    "sample_descriptions": [
+      "Natalie Lucas\nLast 4: 0508"
+    ]
+  },
+  {
+    "vendor_name": "Alma Cubana Latin Restaurant Miami Beach",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Top of the Hill",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Otto & Pepe",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Emmy Square",
+    "sample_descriptions": [
+      "Madison Ramsey\nLast 4: 3307"
+    ]
+  },
+  {
+    "vendor_name": "Sp Feste",
+    "sample_descriptions": [
+      "Jace Taylor\nLast 4: 4980"
+    ]
+  },
+  {
+    "vendor_name": "Bibliotheque",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 0093"
+    ]
+  },
+  {
+    "vendor_name": "Spris Pizza",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Za'atar | Levantine Inspired Street Food",
+    "sample_descriptions": [
+      "Madison Ramsey\nLast 4: 3307"
+    ]
+  },
+  {
+    "vendor_name": "Riverside Gourmet Deli",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Smith & Wollensky",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Chambers Steakhouse",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Petralunga",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Le Chick Miami",
+    "sample_descriptions": [
+      "Brooke Carrobis\nLast 4: 8910"
+    ]
+  },
+  {
+    "vendor_name": "Jrk!",
+    "sample_descriptions": [
+      "Brooke Carrobis\nLast 4: 8910"
+    ]
+  },
+  {
+    "vendor_name": "The Bowery Bay Shops",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "The Line Sports Grill",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "LATIN CAFE",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Arkadia Grill",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Bey Bey",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Nogassin LLC",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Ruby Soho",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Squad Up",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Dantes",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Havana Vieja",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "OakTown Kabobs",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "Silent H",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Bacchus & Venus",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Prima Brooklyn",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002"
+    ]
+  },
+  {
+    "vendor_name": "Lobo's Tacos",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477",
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Wilde on the Porch",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "Pura Vida Edgewater",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "The Factory Bar",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977",
+      "Brooke Carrobis\nLast 4: 8910"
+    ]
+  },
+  {
+    "vendor_name": "Zaro's Bakery",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711"
+    ]
+  },
+  {
+    "vendor_name": "Javi's Mexican Food/ Taco Truck",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Hutong",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Savage Labs",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Palm Tree Club",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "Pine Crest Bakery",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Evolve",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Pizza Bar",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Palm Tree Club Orlando",
+    "sample_descriptions": [
+      "Patrick Laskowski\nLast 4: 5711",
+      "Daniel Costello\nLast 4: 6190",
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "MODE Downtown Miami",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Delilah Miami",
+    "sample_descriptions": [
+      "Daniel Costello\nLast 4: 6190"
+    ]
+  },
+  {
+    "vendor_name": "The Carvin",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Time Again",
+    "sample_descriptions": [
+      "Anthony Perrin\nLast 4: 1903"
+    ]
+  },
+  {
+    "vendor_name": "The Waffle Roost Food Truck",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Company A Bagel",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "CVI.CHE 105",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "The York",
+    "sample_descriptions": [
+      "Natalie Lucas\nLast 4: 0508"
+    ]
+  },
+  {
+    "vendor_name": "Almansour Food Cort",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "DoorDash Kitchens",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Moshi Moshi",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Overgreen",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "El Castillode",
+    "sample_descriptions": [
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Pho Grand",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Tere's Mexican Grill",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Milk and Honey Cafe",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Whoopsie's Cocktail",
+    "sample_descriptions": [
+      "Eliseo Cardon\nLast 4: 6977"
+    ]
+  },
+  {
+    "vendor_name": "Nami Nori",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "City Winery Atlanta",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Nam Son Restaurant",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Freshii",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Stout Burgers & Beers",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Skyline's Cafe",
+    "sample_descriptions": [
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Essex Burger",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "El Malo",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360",
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Casa Del Toro - Cocina & Tequila",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 0093"
+    ]
+  },
+  {
+    "vendor_name": "Groundwork Coffee Co.",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Cellar 36",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Pasquale Jones",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Sunday Supper",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Essex Taqueria",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Farmer's Fridge LA",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 0093"
+    ]
+  },
+  {
+    "vendor_name": "Healthyish Republic",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Bar Oliver",
+    "sample_descriptions": [
+      "Natalie Lucas\nLast 4: 0508"
+    ]
+  },
+  {
+    "vendor_name": "Javista Coffee Hollywood",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Potbelly Sandwich Shop",
+    "sample_descriptions": [
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Area 53 Dumbo",
+    "sample_descriptions": [
+      "Katherine Scott\nLast 4: 0325"
+    ]
+  },
+  {
+    "vendor_name": "Cap't Loui",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Noodles & Things",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "KKG 3",
+    "sample_descriptions": [
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "West Egg Cafe",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "ATL Southern Nature",
+    "sample_descriptions": [
+      "Henry Davies\nLast 4: 2327"
+    ]
+  },
+  {
+    "vendor_name": "Cadillac Bar & Grill",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Maple & Ash",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 0093"
+    ]
+  },
+  {
+    "vendor_name": "Triple O's Dundas - AT PIONEER",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Chamberlains Pony",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "King Taps King West",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Parlour 17",
+    "sample_descriptions": [
+      "Eric Moran\nLast 4: 2009"
+    ]
+  },
+  {
+    "vendor_name": "Yum Yum Donuts",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "World Champion Smokehouse & Market",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002"
+    ]
+  },
+  {
+    "vendor_name": "Day & Night",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Blank Street Coffee",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002"
+    ]
+  },
+  {
+    "vendor_name": "Abruzzo",
+    "sample_descriptions": [
+      "Camryn Kirk\nLast 4: 0384"
+    ]
+  },
+  {
+    "vendor_name": "Alamo Drafthouse Cinema New Mission",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Black Seed Bagels Boerum Hill",
+    "sample_descriptions": [
+      "Sabrina Cohan\nLast 4: 8002"
+    ]
+  },
+  {
+    "vendor_name": "Electric Owl",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Somm Time",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Camden Food",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Gjusta",
+    "sample_descriptions": [
+      "Camryn Kirk\nLast 4: 0384"
+    ]
+  },
+  {
+    "vendor_name": "Tierra Mia Coffee",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "La Fiesta",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "Sidecar Doughnuts & Coffee",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "American Beauty",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Erewhon",
+    "sample_descriptions": [
+      "Camryn Kirk\nLast 4: 0384"
+    ]
+  },
+  {
+    "vendor_name": "Saltscure",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Suzette Crepe Cafe",
+    "sample_descriptions": [
+      "Pavlos Tiftikidis\nLast 4: 3783"
+    ]
+  },
+  {
+    "vendor_name": "Chelsea Living Room",
+    "sample_descriptions": [
+      "Hoyle Wang\nLast 4: 4835"
+    ]
+  },
+  {
+    "vendor_name": "COMMUNE",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Mother Wolf",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "1984 JFK Choc & More",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Border Grill",
+    "sample_descriptions": [
+      "Danita Constable\nLast 4: 0360"
+    ]
+  },
+  {
+    "vendor_name": "Campanile",
+    "sample_descriptions": [
+      "Camryn Kirk\nLast 4: 0384"
+    ]
+  },
+  {
+    "vendor_name": "Oasis Cafe",
+    "sample_descriptions": [
+      "Shar Brooks\nLast 4: 0093"
+    ]
+  },
+  {
+    "vendor_name": "Crowns LAX",
+    "sample_descriptions": [
+      "Camryn Kirk\nLast 4: 0384"
+    ]
+  },
+  {
+    "vendor_name": "TONCHIN LA",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Intelligentsia Coffee",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "The Trails",
+    "sample_descriptions": [
+      "Amir Mozafari\nLast 4: 1477"
+    ]
+  },
+  {
+    "vendor_name": "Solar de Cahuenga",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Blue Ribbon Brasserie",
+    "sample_descriptions": [
+      "Eli Taylor-Lemire\nLast 4: 9626"
+    ]
+  },
+  {
+    "vendor_name": "Cold Stone Creamery",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Brooklyn Deli",
+    "sample_descriptions": [
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Seco",
+    "sample_descriptions": [
+      "Tom Lovett\nLast 4: 0976"
+    ]
+  },
+  {
+    "vendor_name": "Cafe Bean",
+    "sample_descriptions": [
+      "Keven Duran\nLast 4: 5039"
+    ]
+  },
+  {
+    "vendor_name": "El Punto Cubano",
+    "sample_descriptions": [
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Go Go Market & Deli",
+    "sample_descriptions": [
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Cafe Patoro",
+    "sample_descriptions": [
+      "Pavlos Tiftikidis\nLast 4: 3783"
+    ]
+  },
+  {
+    "vendor_name": "Peppas Jerk",
+    "sample_descriptions": [
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  },
+  {
+    "vendor_name": "Remedy Diner",
+    "sample_descriptions": [
+      "Avante Price\nLast 4: 3555"
+    ]
+  },
+  {
+    "vendor_name": "House of Pie",
+    "sample_descriptions": [
+      "Kieth Johnson\nLast 4: 5332"
+    ]
+  },
+  {
+    "vendor_name": "Chopt Creative Salad Co.",
+    "sample_descriptions": [
+      "Richard Alvarez\nLast 4: 7972"
+    ]
+  }
+]

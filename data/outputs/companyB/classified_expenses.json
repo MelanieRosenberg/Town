@@ -1,0 +1,1736 @@
+[
+  {
+    "date": "2024-02-05 00:00:00",
+    "vendor": "Flour Bakery",
+    "amount": 1155.27,
+    "description": "CHECKCARD 0205 TST* FLOUR BAKERY & CAF 617-714-3205 MA XXXXX4640XXXXXXXXXX1852 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 577.635
+  },
+  {
+    "date": "2024-02-08 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 509.01,
+    "description": "CHECKCARD 0207 SQ *BON ME - CATERING gosq.com MA XXXXX1640XXXXXXXXXX6162 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 254.505
+  },
+  {
+    "date": "2024-02-13 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 433.87,
+    "description": "CHECKCARD 0212 SQ *BON ME gosq.com MA XXXXX1640XXXXXXXXXX7342 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 216.935
+  },
+  {
+    "date": "2024-03-27 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 1327.93,
+    "description": "CHECKCARD 0326 SQ *BON ME - CATERING gosq.com MA XXXXX1640XXXXXXXXXX6246 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 663.965
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 126.84,
+    "description": "MOBILE PURCHASE 0418 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1641XXXXXXXXXX0138 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 63.42
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 28.0,
+    "description": "MOBILE PURCHASE 0418 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1641XXXXXXXXXX7598 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 14.0
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 28.0,
+    "description": "MOBILE PURCHASE 0418 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1641XXXXXXXXXX7484 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 14.0
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 3280.87,
+    "description": "CHECKCARD 0419 SQ *BON ME - CATERING gosq.com MA XXXXX1641XXXXXXXXXX4203 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1640.435
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 14.0,
+    "description": "CHECKCARD 0420 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1641XXXXXXXXXX3624 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 7.0
+  },
+  {
+    "date": "2024-10-28 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 12.0,
+    "description": "MOBILE PURCHASE 1026 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1643XXXXXXXXXX4526 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 6.0
+  },
+  {
+    "date": "2024-10-30 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 42.25,
+    "description": "MOBILE PURCHASE 1029 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1643XXXXXXXXXX8846 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 21.125
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Bon Me",
+    "amount": 18.99,
+    "description": "SQ *BON ME ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 9.495
+  },
+  {
+    "date": "2024-02-12 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 27.94,
+    "description": "CHECKCARD 0210 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 13.97
+  },
+  {
+    "date": "2024-02-12 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 42.69,
+    "description": "CHECKCARD 0212 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 21.345
+  },
+  {
+    "date": "2024-02-12 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 77.07,
+    "description": "CHECKCARD 0210 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 38.535
+  },
+  {
+    "date": "2024-02-13 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 152.91,
+    "description": "CHECKCARD 0212 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 76.455
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 79.55,
+    "description": "CHECKCARD 0404 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 39.775
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 58.14,
+    "description": "CHECKCARD 0404 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 29.07
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 26.61,
+    "description": "CHECKCARD 0404 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 13.305
+  },
+  {
+    "date": "2024-04-05 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 56.64,
+    "description": "CHECKCARD 0405 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 28.32
+  },
+  {
+    "date": "2024-04-17 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 124.29,
+    "description": "CHECKCARD 0417 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 62.145
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 98.09,
+    "description": "CHECKCARD 0418 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 49.045
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 123.75,
+    "description": "CHECKCARD 0418 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 61.875
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 130.13,
+    "description": "PURCHASE 0419 UBER EATS HELP.UBER.COMCA XXXXX1541XXXXXXXXXX1165 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 65.065
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 24.52,
+    "description": "CHECKCARD 0418 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 12.26
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 22.04,
+    "description": "CHECKCARD 0419 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 11.02
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 20.53,
+    "description": "CHECKCARD 0418 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 10.265
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 3.07,
+    "description": "CHECKCARD 0418 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1.535
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 4.4,
+    "description": "CHECKCARD 0419 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 2.2
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 149.5,
+    "description": "CHECKCARD 0420 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 74.75
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 167.36,
+    "description": "PURCHASE 0421 UBER EATS HELP.UBER.COMCA XXXXX1541XXXXXXXXXX7997 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 83.68
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 182.56,
+    "description": "CHECKCARD 0420 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 91.28
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 259.56,
+    "description": "PURCHASE 0420 UBER EATS HELP.UBER.COMCA XXXXX1541XXXXXXXXXX8772 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 129.78
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 340.78,
+    "description": "CHECKCARD 0421 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 170.39
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 268.17,
+    "description": "PURCHASE 0420 UBER EATS HELP.UBER.COMCA XXXXX1541XXXXXXXXXX8160 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 134.085
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 15.0,
+    "description": "CHECKCARD 0420 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 7.5
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 64.17,
+    "description": "PURCHASE 0421 UBER EATS HELP.UBER.COMCA XXXXX1541XXXXXXXXXX3916 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 32.085
+  },
+  {
+    "date": "2024-10-30 00:00:00",
+    "vendor": "Uber Eats",
+    "amount": 31.41,
+    "description": "CHECKCARD 1029 UBER * EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 15.705
+  },
+  {
+    "date": "2024-02-12 00:00:00",
+    "vendor": "EzCater",
+    "amount": 344.35,
+    "description": "PURCHASE 0212 EZCATERGIA MARIES PIZ XXXXX81803 MA XXXXX1540XXXXXXXXXX6482 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 172.175
+  },
+  {
+    "date": "2024-02-12 00:00:00",
+    "vendor": "EzCater",
+    "amount": 489.63,
+    "description": "PURCHASE 0212 EZCATEROTTO PIZZA XXXXX81803 MA XXXXX1540XXXXXXXXXX0959 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 244.815
+  },
+  {
+    "date": "2024-02-14 00:00:00",
+    "vendor": "EzCater",
+    "amount": 702.0,
+    "description": "PURCHASE 0214 EZCATERPINEAPPLE THAI XXXXX81803 MA XXXXX1540XXXXXXXXXX0149 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 351.0
+  },
+  {
+    "date": "2024-02-14 00:00:00",
+    "vendor": "EzCater",
+    "amount": 509.68,
+    "description": "PURCHASE 0213 EZCATERFIVE GUYS BURG XXXXX81803 MA XXXXX1540XXXXXXXXXX3700 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 254.84
+  },
+  {
+    "date": "2024-02-15 00:00:00",
+    "vendor": "EzCater",
+    "amount": 702.0,
+    "description": "PURCHASE 0215 EZCATERPINEAPPLE THAI XXXXX81803 MA XXXXX1540XXXXXXXXXX7321 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 351.0
+  },
+  {
+    "date": "2024-02-15 00:00:00",
+    "vendor": "EzCater",
+    "amount": 1185.0,
+    "description": "PURCHASE 0215 EZCATERLOS AMIGOS TAQ XXXXX81803 MA XXXXX1540XXXXXXXXXX5975 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 592.5
+  },
+  {
+    "date": "2024-02-20 00:00:00",
+    "vendor": "EzCater",
+    "amount": 857.44,
+    "description": "PURCHASE 0217 EZCATERSUBWAY XXXXX81803 MA XXXXX1540XXXXXXXXXX7788 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 428.72
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "EzCater",
+    "amount": 289.75,
+    "description": "PURCHASE 0404 EZCATEROTTO PIZZA XXXXX81803 MA XXXXX1540XXXXXXXXXX9032 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 144.875
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "EzCater",
+    "amount": 159.5,
+    "description": "PURCHASE 0404 EZCATERSTUBBYS XXXXX81803 MA XXXXX1540XXXXXXXXXX6907 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 79.75
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "EzCater",
+    "amount": 666.35,
+    "description": "PURCHASE 0404 EZCATEROTTO PIZZA XXXXX81803 MA XXXXX1540XXXXXXXXXX2821 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 333.175
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "EzCater",
+    "amount": 373.0,
+    "description": "PURCHASE 0418 EZCATERCAFE LANDWER XXXXX81803 MA XXXXX1541XXXXXXXXXX6210 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 186.5
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "EzCater",
+    "amount": 470.96,
+    "description": "PURCHASE 0418 EZCATERSUBWAY XXXXX81803 MA XXXXX1541XXXXXXXXXX2567 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 235.48
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "EzCater",
+    "amount": 356.08,
+    "description": "PURCHASE 0418 EZCATERSUBWAY XXXXX81803 MA XXXXX1541XXXXXXXXXX1159 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 178.04
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "EzCater",
+    "amount": 356.08,
+    "description": "PURCHASE 0418 EZCATERSUBWAY XXXXX81803 MA XXXXX1541XXXXXXXXXX2011 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 178.04
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "EzCater",
+    "amount": 234.78,
+    "description": "PURCHASE 0418 EZCATERSUBWAY XXXXX81803 MA XXXXX1541XXXXXXXXXX6465 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 117.39
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "EzCater",
+    "amount": 197.0,
+    "description": "PURCHASE 0418 EZCATERCAFE LANDWER XXXXX81803 MA XXXXX1541XXXXXXXXXX4528 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 98.5
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "EzCater",
+    "amount": 195.0,
+    "description": "PURCHASE 0418 EZCATERCAFE LANDWER XXXXX81803 MA XXXXX1541XXXXXXXXXX4185 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 97.5
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "EzCater",
+    "amount": 2594.32,
+    "description": "PURCHASE 0418 EZCATERWENDYS XXXXX81803 MA XXXXX1541XXXXXXXXXX3181 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1297.16
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "EzCater",
+    "amount": 1100.0,
+    "description": "PURCHASE 0420 EZCATERBOLOCO XXXXX81803 MA XXXXX1541XXXXXXXXXX8524 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 550.0
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "EzCater",
+    "amount": 3196.3,
+    "description": "PURCHASE 0420 EZCATERIN BETWEEN SAN XXXXX81803 MA XXXXX1541XXXXXXXXXX8759 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1598.15
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "EzCater",
+    "amount": 840.0,
+    "description": "PURCHASE 0420 EZCATERINSOMNIA COOKI XXXXX81803 MA XXXXX1541XXXXXXXXXX3338 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 420.0
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "EzCater",
+    "amount": 1950.7,
+    "description": "PURCHASE 0420 EZCATERBOARDWALK PIZZ XXXXX81803 MA XXXXX1541XXXXXXXXXX7125 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 975.35
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "EzCater",
+    "amount": 1070.0,
+    "description": "PURCHASE 0421 EZCATERBOLOCO XXXXX81803 MA XXXXX1541XXXXXXXXXX0595 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 535.0
+  },
+  {
+    "date": "2024-04-23 00:00:00",
+    "vendor": "EzCater",
+    "amount": 33.03,
+    "description": "PURCHASE 0423 EZCATERSUBWAY XXXXX81803 MA XXXXX1541XXXXXXXXXX7692 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 16.515
+  },
+  {
+    "date": "2024-10-29 00:00:00",
+    "vendor": "EzCater",
+    "amount": 979.62,
+    "description": "PURCHASE 1029 EZCATER*POLLO CAMPERO 800-488-1803 MA XXXXX2943XXXXXXXXXX7240 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 489.81
+  },
+  {
+    "date": "2024-10-29 00:00:00",
+    "vendor": "EzCater",
+    "amount": 642.63,
+    "description": "PURCHASE 1030 EZCATER*PAPA JOHNS 800-488-1803 MA XXXXX2943XXXXXXXXXX6072 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 321.315
+  },
+  {
+    "date": "2024-10-29 00:00:00",
+    "vendor": "EzCater",
+    "amount": 760.91,
+    "description": "PURCHASE 1028 EZCATER*BON ME 800-488-1803 MA XXXXX2943XXXXXXXXXX6533 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 380.455
+  },
+  {
+    "date": "2024-10-30 00:00:00",
+    "vendor": "EzCater",
+    "amount": 923.31,
+    "description": "PURCHASE 1029 EZCATER*SUBWAY 800-488-1803 MA XXXXX2943XXXXXXXXXX3621 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 461.655
+  },
+  {
+    "date": "2024-10-31 00:00:00",
+    "vendor": "EzCater",
+    "amount": 713.3,
+    "description": "PURCHASE 1030 EZCATER*WENDYS 800-488-1803 MA XXXXX2943XXXXXXXXXX0512 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 356.65
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "EzCater",
+    "amount": 573.38,
+    "description": "PURCHASE 1031 EZCATER*FELIPES TAQUER 800-488-1803 MA XXXXX2943XXXXXXXXXX7669 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 286.69
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "EzCater",
+    "amount": 595.4,
+    "description": "PURCHASE 1101 EZCATER*APPLEBEES 800-488-1803 MA XXXXX2943XXXXXXXXXX7768 CKCD 5811 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 297.7
+  },
+  {
+    "date": "2024-02-13 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 28.29,
+    "description": "CHECKCARD 0213 DD DOORDASH 7-ELEVEN 855-973-1040 CA XXXXX1540XXXXXXXXXX2663 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 14.145
+  },
+  {
+    "date": "2024-02-14 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 9.99,
+    "description": "PURCHASE 0213 DOORDASH DASHPASS WWW.DOORDASH.CA XXXXX3440XXXXXXXXXX1320 RECURRING CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 4.995
+  },
+  {
+    "date": "2024-02-14 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 24.22,
+    "description": "PURCHASE 0214 DD DOORDASH 7-ELEVEN 855-973-1040 CA XXXXX1540XXXXXXXXXX5546 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 12.11
+  },
+  {
+    "date": "2024-02-20 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 23.22,
+    "description": "PURCHASE 0217 DD DOORDASH 7-ELEVEN 855-973-1040 CA XXXXX1540XXXXXXXXXX8436 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 11.61
+  },
+  {
+    "date": "2024-02-20 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 22.22,
+    "description": "PURCHASE 0217 DD DOORDASH 7-ELEVEN 855-973-1040 CA XXXXX1540XXXXXXXXXX1522 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 11.11
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 152.48,
+    "description": "PURCHASE 0404 DD DOORDASH OTTOPIZZA 855-973-1040 CA XXXXX1540XXXXXXXXXX9553 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 76.24
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 83.99,
+    "description": "PURCHASE 0403 DD *DOORDASH DUMPLINGK WWW.DOORDASH.CA XXXXX3440XXXXXXXXXX5637 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 41.995
+  },
+  {
+    "date": "2024-04-05 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 36.23,
+    "description": "PURCHASE 0404 DD DOORDASH PAPAJOHNS 855-973-1040 CA XXXXX1540XXXXXXXXXX6356 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 18.115
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 43.41,
+    "description": "PURCHASE 0405 DD DOORDASH CVS 855-973-1040 CA XXXXX1540XXXXXXXXXX8248 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 21.705
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 28.04,
+    "description": "PURCHASE 0418 DD DOORDASH HENCHICKE 855-973-1040 CA XXXXX1541XXXXXXXXXX1437 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 14.02
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 76.8,
+    "description": "PURCHASE 0418 DD DOORDASH TATTEBAKE 855-973-1040 CA XXXXX1541XXXXXXXXXX6905 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 38.4
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 63.82,
+    "description": "PURCHASE 0417 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX8125 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 31.91
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 286.37,
+    "description": "PURCHASE 0418 DD *DOORDASH CVS WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX7990 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 143.185
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 12.75,
+    "description": "PURCHASE 0418 DD DOORDASH YIFANGTAI 855-973-1040 CA XXXXX1541XXXXXXXXXX6293 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 6.375
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 65.33,
+    "description": "PURCHASE 0421 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX7546 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 32.665
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 93.39,
+    "description": "PURCHASE 0419 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX4033 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 46.695
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 101.74,
+    "description": "PURCHASE 0419 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX4444 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 50.87
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 48.19,
+    "description": "PURCHASE 0420 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX5370 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 24.095
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 48.69,
+    "description": "PURCHASE 0421 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX0430 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 24.345
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 51.5,
+    "description": "PURCHASE 0422 DD DOORDASH J.P.LICKS 855-973-1040 CA XXXXX1541XXXXXXXXXX2111 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 25.75
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 62.67,
+    "description": "PURCHASE 0422 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX1569 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 31.335
+  },
+  {
+    "date": "2024-04-23 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 64.08,
+    "description": "PURCHASE 0422 DD *DOORDASH TOUSLESJO WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX3906 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 32.04
+  },
+  {
+    "date": "2024-04-23 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 62.76,
+    "description": "PURCHASE 0423 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX5871 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 31.38
+  },
+  {
+    "date": "2024-10-30 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 54.34,
+    "description": "PURCHASE 1029 DD *DOORDASH OTTOPIZZA WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX9803 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 27.17
+  },
+  {
+    "date": "2024-10-30 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 27.98,
+    "description": "PURCHASE 1030 DD *DOORDASH SWEETGREE WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX7139 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 13.99
+  },
+  {
+    "date": "2024-10-30 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 6.35,
+    "description": "PURCHASE 1030 DD *DOORDASH 7-ELEVEN WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX6360 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 3.175
+  },
+  {
+    "date": "2024-10-30 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 53.13,
+    "description": "PURCHASE 1030 DD *DOORDASH MIKESPAST WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX8088 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 26.565
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 8.85,
+    "description": "PURCHASE 1101 DD *DOORDASH STARMARKE WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX3730 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 4.425
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 7.44,
+    "description": "PURCHASE 1101 DD *DDDOORDASHSTARMARK WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX7540 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 3.72
+  },
+  {
+    "date": "2024-02-16 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 36.81,
+    "description": "DD *DOORDASH BJSWHOLES ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 18.405
+  },
+  {
+    "date": "2024-02-19 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 391.31,
+    "description": "DD *DOORDASH JOESPIZZA ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 195.655
+  },
+  {
+    "date": "2024-04-05 00:00:00",
+    "vendor": "DoorDash",
+    "amount": 125.92,
+    "description": "DD *DOORDASH 7-ELEVEN ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 62.96
+  },
+  {
+    "date": "2024-02-14 00:00:00",
+    "vendor": "Unknown Vendor (ID: 109)",
+    "amount": 2705.0,
+    "description": "BKOFAMERICA BC 02/14 #XXXXX3076 WITHDRWL 1414 Massachusett Cambridge MA",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0,
+    "expense_id": 109
+  },
+  {
+    "date": "2024-02-14 00:00:00",
+    "vendor": "ATM Purchase",
+    "amount": 350.0,
+    "description": "BKOFAMERICA ATM 02/14 #XXXXX2957 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-02-14 00:00:00",
+    "vendor": "ATM Purchase",
+    "amount": 300.0,
+    "description": "BKOFAMERICA ATM 02/14 #XXXXX2956 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-16 00:00:00",
+    "vendor": "ATM Purchase",
+    "amount": 1000.0,
+    "description": "BKOFAMERICA ATM 04/16 #XXXXX3634 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX934866",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-17 00:00:00",
+    "vendor": "ATM Purchase",
+    "amount": 700.0,
+    "description": "BKOFAMERICA ATM 04/17 #XXXXX6240 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX934866",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-17 00:00:00",
+    "vendor": "ATM Purchase",
+    "amount": 20.0,
+    "description": "BKOFAMERICA ATM 04/17 #XXXXX6238 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX934866",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-17 00:00:00",
+    "vendor": "ATM Purchase",
+    "amount": 280.0,
+    "description": "BKOFAMERICA ATM 04/17 #XXXXX6239 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX934866",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-02-14 00:00:00",
+    "vendor": "Bruegger's Bagels",
+    "amount": 465.89,
+    "description": "CHECKCARD 0213 BRUEGGERS CATERING BROOKLYN CENTMN XXXXX6640XXXXXXXXXX4291 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 232.945
+  },
+  {
+    "date": "2024-02-15 00:00:00",
+    "vendor": "Wegmans",
+    "amount": 108.37,
+    "description": "CHECKCARD 0214 WEGMANS.COM#134 MEDFORD 800-934-6267 MA XXXXX4640XXXXXXXXXX6271 RECURRING CKCD 5411 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 54.185
+  },
+  {
+    "date": "2024-10-22 00:00:00",
+    "vendor": "Wegmans",
+    "amount": 329.04,
+    "description": "CHECKCARD 1021 WEGMANS.COM#134 MEDFORD 800-934-6267 MA XXXXX4642XXXXXXXXXX3089 RECURRING CKCD 5411 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 164.52
+  },
+  {
+    "date": "2024-10-23 00:00:00",
+    "vendor": "Wegmans",
+    "amount": 669.29,
+    "description": "PURCHASE 1022 WEGMANS.COM#134 MEDFORD 800-934-6267 MA XXXXX4642XXXXXXXXXX7229 RECURRING CKCD 5411 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 334.645
+  },
+  {
+    "date": "2024-10-24 00:00:00",
+    "vendor": "Wegmans",
+    "amount": 669.29,
+    "description": "PURCHASE 1023 WEGMANS.COM#134 MEDFORD 800-934-6267 MA XXXXX4642XXXXXXXXXX7363 RECURRING CKCD 5411 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 334.645
+  },
+  {
+    "date": "2024-02-15 00:00:00",
+    "vendor": "Shake Shack",
+    "amount": 538.76,
+    "description": "CHECKCARD 0213 SHAKE SHACK 1121 646-747-7200 MA XXXXX1640XXXXXXXXXX1200 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 269.38
+  },
+  {
+    "date": "2024-04-23 00:00:00",
+    "vendor": "Shake Shack",
+    "amount": 548.27,
+    "description": "CHECKCARD 0421 SHAKE SHACK 1121 646-747-7200 MA XXXXX1641XXXXXXXXXX2271 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 274.135
+  },
+  {
+    "date": "2024-02-16 00:00:00",
+    "vendor": "Instacart",
+    "amount": 108.53,
+    "description": "CHECKCARD 0215 IC* INSTACART*1176 XXX-XX67822 CA XXXXX3840XXXXXXXXXX4068 CKCD 5411 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 54.265
+  },
+  {
+    "date": "2024-02-20 00:00:00",
+    "vendor": "Domino's",
+    "amount": 559.26,
+    "description": "CHECKCARD 0215 DOMINO'S 3748 617-721-6066 MA XXXXX0040XXXXXXXXXX6368 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 279.63
+  },
+  {
+    "date": "2024-10-28 00:00:00",
+    "vendor": "Domino's",
+    "amount": 112.24,
+    "description": "CHECKCARD 1025 DOMINO'S 3741 BOSTON MA XXXXX0043XXXXXXXXXX9061 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 56.12
+  },
+  {
+    "date": "2024-10-28 00:00:00",
+    "vendor": "Domino's",
+    "amount": 350.03,
+    "description": "CHECKCARD 1025 DOMINO'S 3793 WALTHAM MA XXXXX0043XXXXXXXXXX8980 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 175.015
+  },
+  {
+    "date": "2024-12-02 00:00:00",
+    "vendor": "Domino's",
+    "amount": 100.0,
+    "description": "CHECKCARD 1201 MPX*DOMINO'S PIZZA 800-421-4655 IL XXXXX1643XXXXXXXXXX8783 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 50.0
+  },
+  {
+    "date": "2024-02-22 00:00:00",
+    "vendor": "Le's",
+    "amount": 218.0,
+    "description": "CHECKCARD 0215 LE'S CAMBRIDGE MA XXXXX3540XXXXXXXXXX5329 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 109.0
+  },
+  {
+    "date": "2024-04-29 00:00:00",
+    "vendor": "Le's",
+    "amount": 352.96,
+    "description": "CHECKCARD 0422 LE'S CAMBRIDGE MA XXXXX3541XXXXXXXXXX3002 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 176.48
+  },
+  {
+    "date": "2024-04-15 00:00:00",
+    "vendor": "Le's",
+    "amount": 134.69,
+    "description": "LE'S ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 67.345
+  },
+  {
+    "date": "2024-04-15 00:00:00",
+    "vendor": "Le's",
+    "amount": 17.66,
+    "description": "LE'S ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 8.83
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "Restaurant",
+    "amount": 8775.0,
+    "description": "BKOFAMERICA BC 04/04 #XXXXX6252 WITHDRWL 1414 Massachusett Cambridge MA",
+    "deduction_rate": 0.5,
+    "deductible_amount": 4387.5
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "Restaurant",
+    "amount": 3795.0,
+    "description": "BKOFAMERICA BC 04/19 #XXXXX2558 WITHDRWL 1414 Massachusett Cambridge MA",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1897.5
+  },
+  {
+    "date": "2024-10-28 00:00:00",
+    "vendor": "Restaurant",
+    "amount": 1260.0,
+    "description": "BKOFAMERICA BC 10/26 #XXXXX5427 WITHDRWL 1414 Massachusett Cambridge MA",
+    "deduction_rate": 0.5,
+    "deductible_amount": 630.0
+  },
+  {
+    "date": "2024-04-05 00:00:00",
+    "vendor": "Ornico",
+    "amount": 37.0,
+    "description": "MOBILE PURCHASE 0404 TST* ORINOCO A LATIN KI Cambridge MA XXXXX1640XXXXXXXXXX7565 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 18.5
+  },
+  {
+    "date": "2024-04-05 00:00:00",
+    "vendor": "Tatte Bakery & Cafe",
+    "amount": 16.05,
+    "description": "MOBILE PURCHASE 0405 TST* TATTE BAKERY CAMBRIDGE MA XXXXX4640XXXXXXXXXX9440 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 8.025
+  },
+  {
+    "date": "2024-04-11 00:00:00",
+    "vendor": "Tatte Bakery & Cafe",
+    "amount": 13.91,
+    "description": "TST* TATTE BAKERY ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 6.955
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Maharaja",
+    "amount": 432.07,
+    "description": "CHECKCARD 0404 TST* MAHARAJA Cambridge MA XXXXX1640XXXXXXXXXX4539 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 216.035
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Maharaja",
+    "amount": 243.58,
+    "description": "TST* MAHARAJA ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 121.79
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "CMS Vending",
+    "amount": 2.0,
+    "description": "MOBILE PURCHASE 0407 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0040XXXXXXXXXX2225 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-19 00:00:00",
+    "vendor": "CMS Vending",
+    "amount": 2.0,
+    "description": "MOBILE PURCHASE 0418 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0041XXXXXXXXXX5447 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "CMS Vending",
+    "amount": 2.25,
+    "description": "MOBILE PURCHASE 0420 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0041XXXXXXXXXX6770 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "CMS Vending",
+    "amount": 2.0,
+    "description": "MOBILE PURCHASE 0420 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0041XXXXXXXXXX7018 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "CMS Vending",
+    "amount": 2.0,
+    "description": "MOBILE PURCHASE 0420 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0041XXXXXXXXXX6937 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "CMS Vending",
+    "amount": 2.25,
+    "description": "MOBILE PURCHASE 0420 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0041XXXXXXXXXX6853 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-09 00:00:00",
+    "vendor": "Sofra Bakery & Cafe",
+    "amount": 44.47,
+    "description": "MOBILE PURCHASE 0408 TST* SOFRA Cambridge MA XXXXX1641XXXXXXXXXX7469 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 22.235
+  },
+  {
+    "date": "2024-04-09 00:00:00",
+    "vendor": "Hudson News",
+    "amount": 4.89,
+    "description": "MOBILE PURCHASE 0408 BOS HUDSON ST1933 BOSTON MA XXXXX0641XXXXXXXXXX3358 CKCD 5994 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-24 00:00:00",
+    "vendor": "Hudson News",
+    "amount": 5.49,
+    "description": "MOBILE PURCHASE 0423 BOS HUDSON ST1933 BOSTON MA XXXXX0641XXXXXXXXXX7796 CKCD 5994 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-16 00:00:00",
+    "vendor": "Sarma Restaurant",
+    "amount": 83.0,
+    "description": "CHECKCARD 0415 TST* SARMA RESTAURANT Somerville MA XXXXX1641XXXXXXXXXX6822 CKCD 5812 XXXXXXXXXX934866",
+    "deduction_rate": 0.5,
+    "deductible_amount": 41.5
+  },
+  {
+    "date": "2024-04-16 00:00:00",
+    "vendor": "Faneuil Hall Marketplace",
+    "amount": 5617.5,
+    "description": "CHECKCARD 0415 FAN HALL MARKETPLACE WWW.FANEUILHAMA XXXXX3441XXXXXXXXXX2763 RECURRING CKCD 7991 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-16 00:00:00",
+    "vendor": "Faneuil Hall Marketplace",
+    "amount": 1011.15,
+    "description": "CHECKCARD 0415 FAN HALL MARKETPLACE WWW.FANEUILHAMA XXXXX3441XXXXXXXXXX1933 RECURRING CKCD 7991 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-10-21 00:00:00",
+    "vendor": "Faneuil Hall Marketplace",
+    "amount": 1273.3,
+    "description": "CHECKCARD 1019 FAN HALL MARKETPLACE WWW.FANEUILHAMA XXXXX3442XXXXXXXXXX5133 RECURRING CKCD 7991 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-17 00:00:00",
+    "vendor": "haley.henry",
+    "amount": 71.13,
+    "description": "MOBILE PURCHASE 0416 TST* HALEY HENRY BOSTON MA XXXXX4641XXXXXXXXXX4350 CKCD 5813 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-04-17 00:00:00",
+    "vendor": "Klein's Deli",
+    "amount": 28.88,
+    "description": "MOBILE PURCHASE 0416 TST* KLEINS DELI E SAN MATEO CA XXXXX4641XXXXXXXXXX2112 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 14.44
+  },
+  {
+    "date": "2024-04-17 00:00:00",
+    "vendor": "TIGER SUGAR",
+    "amount": 7.26,
+    "description": "MOBILE PURCHASE 0417 TIGER SUGAR (CAMBRIDGE XXX-XX305592 IL XXXXX1641XXXXXXXXXX8198 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 3.63
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "Pinocchio's Pizza",
+    "amount": 19.15,
+    "description": "MOBILE PURCHASE 0416 Pinocchio's Pizza CAMBRIDGE MA XXXXX8041XXXXXXXXXX1585 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 9.575
+  },
+  {
+    "date": "2024-04-18 00:00:00",
+    "vendor": "Sugar & SpiceThai Restaurant",
+    "amount": 150.97,
+    "description": "MOBILE PURCHASE 0416 TST* SUGAR & SPICE - CA Cambridge MA XXXXX1641XXXXXXXXXX0496 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 75.485
+  },
+  {
+    "date": "2024-04-22 00:00:00",
+    "vendor": "Russell House Tavern",
+    "amount": 798.72,
+    "description": "CHECKCARD 0418 TST* RUSSELL HOUSE TAVE Cambridge MA XXXXX1641XXXXXXXXXX2222 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 399.36
+  },
+  {
+    "date": "2024-04-23 00:00:00",
+    "vendor": "Unknown Vendor (ID: 452)",
+    "amount": 296.33,
+    "description": "MOBILE PURCHASE 0422 ASIAN GARDEN RESTAURAN XXX-XX305592 IL XXXXX1641XXXXXXXXXX9264 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 148.165,
+    "expense_id": 452
+  },
+  {
+    "date": "2024-04-25 00:00:00",
+    "vendor": "Starbucks",
+    "amount": 6.9,
+    "description": "MOBILE PURCHASE 0423 STARBUCKS TERM B PIER EAST BOSTON MA XXXXX1641XXXXXXXXXX2677 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 3.45
+  },
+  {
+    "date": "2024-11-04 00:00:00",
+    "vendor": "Starbucks",
+    "amount": 5.83,
+    "description": "MOBILE PURCHASE 1031 STARBUCKS STORE 00810 CAMBRIDGE MA XXXXX1643XXXXXXXXXX5087 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 2.915
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Starbucks",
+    "amount": 8.77,
+    "description": "STARBUCKS STORE 69597 ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 4.385
+  },
+  {
+    "date": "2024-08-08 00:00:00",
+    "vendor": "Costco",
+    "amount": 399.95,
+    "description": "MOBILE PURCHASE 0807 COSTCO WHSE #1042 REDWOOD CITY CA XXXXX0042XXXXXXXXXX7035 CKCD 5300 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-09-12 00:00:00",
+    "vendor": "Tastes on the Fly",
+    "amount": 59.66,
+    "description": "MOBILE PURCHASE 0911 TST* TASTES ON THE FLY- SAN MATEO CA XXXXX4642XXXXXXXXXX8068 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 29.83
+  },
+  {
+    "date": "2024-10-21 00:00:00",
+    "vendor": "Tasty Burger",
+    "amount": 847.18,
+    "description": "CHECKCARD 1019 TST*TASTY BURGER - HARV 617-714-1590 MA XXXXX1642XXXXXXXXXX2344 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 423.59
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Tasty Burger",
+    "amount": 17.99,
+    "description": "TST* TASTY BURGER - HA ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 8.995
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Tasty Burger",
+    "amount": 136.8,
+    "description": "TST* TASTY BURGER - HA ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 68.4
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Tasty Burger",
+    "amount": 17.99,
+    "description": "TST* TASTY BURGER - HA ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 8.995
+  },
+  {
+    "date": "2024-10-24 00:00:00",
+    "vendor": "Unknown Vendor (ID: 669)",
+    "amount": 21.39,
+    "description": NaN,
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0,
+    "expense_id": 669
+  },
+  {
+    "date": "2024-10-26 00:00:00",
+    "vendor": "Unknown Vendor (ID: 671)",
+    "amount": 223.08,
+    "description": NaN,
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0,
+    "expense_id": 671
+  },
+  {
+    "date": "2024-10-28 00:00:00",
+    "vendor": "Koi Palace",
+    "amount": 10.32,
+    "description": "MOBILE PURCHASE 1024 TST*KOI PALACE EXPRESS San FranciscoCA XXXXX1642XXXXXXXXXX7064 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 5.16
+  },
+  {
+    "date": "2024-10-28 00:00:00",
+    "vendor": "Mo'Rockin Fusion",
+    "amount": 14.93,
+    "description": "MOBILE PURCHASE 1027 SQ *MO'ROCKIN FUSION Boston MA XXXXX1643XXXXXXXXXX8831 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 7.465
+  },
+  {
+    "date": "2024-10-28 00:00:00",
+    "vendor": "Mo'Rockin Fusion",
+    "amount": 16.53,
+    "description": "MOBILE PURCHASE 1027 SQ *MO'ROCKIN FUSION Boston MA XXXXX1643XXXXXXXXXX2008 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 8.265
+  },
+  {
+    "date": "2024-10-28 00:00:00",
+    "vendor": "Red Apple Farm",
+    "amount": 4.28,
+    "description": "MOBILE PURCHASE 1027 NNT RED APPLE BOSTON MA CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-10-28 00:00:00",
+    "vendor": "BEANTOWN PASTRAMI CO",
+    "amount": 17.07,
+    "description": "MOBILE PURCHASE 1027 SQ *BEANTOWN PASTRAMI C Boston MA XXXXX1643XXXXXXXXXX2126 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 8.535
+  },
+  {
+    "date": "2024-10-29 00:00:00",
+    "vendor": "Fantuan",
+    "amount": 123.29,
+    "description": "PURCHASE 1028 FANTUAN DELIVERY HTTPSWWW.FANTCA XXXXX3443XXXXXXXXXX6306 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 61.645
+  },
+  {
+    "date": "2024-10-29 00:00:00",
+    "vendor": "Fantuan",
+    "amount": 127.36,
+    "description": "PURCHASE 1028 FANTUAN DELIVERY HTTPSWWW.FANTCA XXXXX3443XXXXXXXXXX1813 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 63.68
+  },
+  {
+    "date": "2024-12-30 00:00:00",
+    "vendor": "Fantuan",
+    "amount": 9.99,
+    "description": "PURCHASE 1227 FANTUAN DELIVERY HTTPSWWW.FANTCA XXXXX3443XXXXXXXXXX4266 RECURRING CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 4.995
+  },
+  {
+    "date": "2024-10-30 00:00:00",
+    "vendor": "Clover Food Lab",
+    "amount": 5.3,
+    "description": "MOBILE PURCHASE 1029 SQ *CLOVER FOOD LAB Cambridge MA XXXXX1643XXXXXXXXXX6710 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 2.65
+  },
+  {
+    "date": "2024-02-15 00:00:00",
+    "vendor": "Clover Food Lab",
+    "amount": 3.74,
+    "description": "SQ *CLOVER FOOD LAB ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1.87
+  },
+  {
+    "date": "2024-02-16 00:00:00",
+    "vendor": "Clover Food Lab",
+    "amount": 139.89,
+    "description": "SQ *CLOVER FOOD LAB ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 69.945
+  },
+  {
+    "date": "2024-02-16 00:00:00",
+    "vendor": "Clover Food Lab",
+    "amount": 62.27,
+    "description": "SQ *CLOVER FOOD LAB ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 31.135
+  },
+  {
+    "date": "2024-10-30 00:00:00",
+    "vendor": "Ripple Cafe",
+    "amount": 4.92,
+    "description": "MOBILE PURCHASE 1028 TST*RIPPLE CAFE - CAMBR Cambridge MA XXXXX1643XXXXXXXXXX9690 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 2.46
+  },
+  {
+    "date": "2024-02-19 00:00:00",
+    "vendor": "Ripple Cafe",
+    "amount": 5.35,
+    "description": "TST* RIPPLE CAFE - CAM ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 2.675
+  },
+  {
+    "date": "2024-10-30 00:00:00",
+    "vendor": "Dig Inn",
+    "amount": 16.74,
+    "description": "PURCHASE 1029 DIG.. HTTPSDIG.OLO.MA XXXXX3443XXXXXXXXXX6371 CKCD 5814 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 8.37
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "Dig Inn",
+    "amount": 16.21,
+    "description": "MOBILE PURCHASE 1031 TST* DIG INN- HARVARD S CAMBRIDGE MA XXXXX4643XXXXXXXXXX1955 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 8.105
+  },
+  {
+    "date": "2024-10-31 00:00:00",
+    "vendor": "Yorkside Pizza & Restaurant",
+    "amount": 24.4,
+    "description": "YORKSIDE PIZZA 10/30 #XXXXX9178 MOBILE PURCHASE YORKSIDE PIZZA RE NEW HAVEN CT CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 12.2
+  },
+  {
+    "date": "2024-10-31 00:00:00",
+    "vendor": "Yorkside Pizza & Restaurant",
+    "amount": 740.2,
+    "description": "YORKSIDE PIZZA 10/31 #XXXXX3400 MOBILE PURCHASE YORKSIDE PIZZA RE NEW HAVEN CT CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 370.1
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "Yale Dining",
+    "amount": 257.64,
+    "description": "CHECKCARD 1031 Yale Dining NEW HAVEN CT XXXXX3943XXXXXXXXXX4541 CKCD 8220 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 128.82
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "Yale Dining",
+    "amount": 257.64,
+    "description": "CHECKCARD 1031 Yale Dining NEW HAVEN CT XXXXX3943XXXXXXXXXX4558 CKCD 8220 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 128.82
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "Yale Dining",
+    "amount": 17.18,
+    "description": "CHECKCARD 1031 Yale Dining NEW HAVEN CT XXXXX3943XXXXXXXXXX4350 CKCD 8220 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 8.59
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "Yale Dining",
+    "amount": 257.64,
+    "description": "CHECKCARD 1031 Yale Dining NEW HAVEN CT XXXXX3943XXXXXXXXXX4343 CKCD 8220 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 128.82
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "Yale Dining",
+    "amount": 15.19,
+    "description": "MOBILE PURCHASE 1031 Yale Dining NEW HAVEN CT XXXXX3943XXXXXXXXXX7381 CKCD 8220 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 7.595
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "Cava",
+    "amount": 22.79,
+    "description": "MOBILE PURCHASE 1031 10078 CAVA KENDALL SQR CAMBRIDGE MA XXXXX1643XXXXXXXXXX1728 CKCD 5812 XXXXXXXXXX579901",
+    "deduction_rate": 0.5,
+    "deductible_amount": 11.395
+  },
+  {
+    "date": "2024-02-13 00:00:00",
+    "vendor": "Unknown Vendor (ID: 872)",
+    "amount": 64.13,
+    "description": NaN,
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0,
+    "expense_id": 872
+  },
+  {
+    "date": "2024-02-21 00:00:00",
+    "vendor": "Unknown Vendor (ID: 885)",
+    "amount": 1080.0,
+    "description": NaN,
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0,
+    "expense_id": 885
+  },
+  {
+    "date": "2024-02-13 00:00:00",
+    "vendor": "Foodium Garden",
+    "amount": 43.59,
+    "description": "PHO( FOODIUM GARDEN BR ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 21.795
+  },
+  {
+    "date": "2024-02-13 00:00:00",
+    "vendor": "Willoughbys",
+    "amount": 26.51,
+    "description": "WILLOUGHBYS-CHURCH ON CC 2490",
+    "deduction_rate": 0.0,
+    "deductible_amount": 0.0
+  },
+  {
+    "date": "2024-02-15 00:00:00",
+    "vendor": "Bibim Box",
+    "amount": 86.14,
+    "description": "SQ *BIBIM BOX ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 43.07
+  },
+  {
+    "date": "2024-02-16 00:00:00",
+    "vendor": "Commons Cofe",
+    "amount": 2.25,
+    "description": "HARVARD COMMONS CAFE ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1.125
+  },
+  {
+    "date": "2024-02-19 00:00:00",
+    "vendor": "Happy Donuts",
+    "amount": 10.88,
+    "description": "SQ *UNION SQUARE DONUT ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 5.44
+  },
+  {
+    "date": "2024-02-19 00:00:00",
+    "vendor": "Union Oyster House",
+    "amount": 832.47,
+    "description": "UNION OYSTER HOUSE ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 416.235
+  },
+  {
+    "date": "2024-02-19 00:00:00",
+    "vendor": "Central Perk Coffee Co",
+    "amount": 18.53,
+    "description": "Central Perk Boston ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 9.265
+  },
+  {
+    "date": "2024-03-22 00:00:00",
+    "vendor": "Spangler",
+    "amount": 15.05,
+    "description": "HBS SPANGLER GRILL QPS ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 7.525
+  },
+  {
+    "date": "2024-03-26 00:00:00",
+    "vendor": "Spangler",
+    "amount": 7.35,
+    "description": "HBS SPANGLER GRILL QPS ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 3.675
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Spangler",
+    "amount": 2.95,
+    "description": "HBS SPANGLER FD COUQPS ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1.475
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Spangler",
+    "amount": 4.2,
+    "description": "HBS SPANGLER FD COUQPS ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 2.1
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "Dynasty",
+    "amount": 131.32,
+    "description": "DYNASTY ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 65.66
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "Shu Da Xia Hot Pot",
+    "amount": 189.06,
+    "description": "SHU DA XIA HOT POT ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 94.53
+  },
+  {
+    "date": "2024-04-04 00:00:00",
+    "vendor": "Flour Stone",
+    "amount": 50.05,
+    "description": "HWH DX07 FLOUR STONE ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 25.025
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Kitchen & Drinks",
+    "amount": 200.05,
+    "description": "TST* KITCHEN & DRINKS ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 100.025
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Pavement Coffeehouse - Newbury",
+    "amount": 20.33,
+    "description": "TST* PAVEMENT COFFEEHO ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 10.165
+  },
+  {
+    "date": "2024-04-08 00:00:00",
+    "vendor": "Blue Bottle Coffee",
+    "amount": 7.49,
+    "description": "SQ *BLUE BOTTLE COFFEE ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 3.745
+  },
+  {
+    "date": "2024-08-26 00:00:00",
+    "vendor": "Grab a Dog",
+    "amount": 6.17,
+    "description": "Grab* A-6QHDXEGWWG6H ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 3.085
+  },
+  {
+    "date": "2024-08-26 00:00:00",
+    "vendor": "Grab a Dog",
+    "amount": 8.63,
+    "description": "Grab* A-6Q8AGX7WWGWA ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 4.315
+  },
+  {
+    "date": "2024-08-26 00:00:00",
+    "vendor": "Grab a Dog",
+    "amount": 3.92,
+    "description": "Grab* A-6QGIA3PWWHBB ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1.96
+  },
+  {
+    "date": "2024-08-26 00:00:00",
+    "vendor": "Grab a Dog",
+    "amount": 2.92,
+    "description": "Grab* A-6Q9ITGVGWISK ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1.46
+  },
+  {
+    "date": "2024-08-26 00:00:00",
+    "vendor": "Grab a Dog",
+    "amount": 3.04,
+    "description": "Grab* A-6Q9W2IBGWJCF ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1.52
+  },
+  {
+    "date": "2024-08-26 00:00:00",
+    "vendor": "Grab a Dog",
+    "amount": 3.13,
+    "description": "Grab* A-6QDHTDBGWI8B ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1.565
+  },
+  {
+    "date": "2024-08-26 00:00:00",
+    "vendor": "Grab a Dog",
+    "amount": 1.21,
+    "description": "Grab* A-6Q8AGX7WWGWA ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 0.605
+  },
+  {
+    "date": "2024-08-26 00:00:00",
+    "vendor": "Grab a Dog",
+    "amount": 2.79,
+    "description": "Grab* A-6QCBI6MWWJ83 ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1.395
+  },
+  {
+    "date": "2024-08-26 00:00:00",
+    "vendor": "Grab a Dog",
+    "amount": 2.54,
+    "description": "Grab* A-6QGTW2MGWEIH ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 1.27
+  },
+  {
+    "date": "2024-11-01 00:00:00",
+    "vendor": "Heirloom Cafe",
+    "amount": 43.53,
+    "description": "HEIRLOOM RESTAURANT ON CC 2490",
+    "deduction_rate": 0.5,
+    "deductible_amount": 21.765
+  }
+]

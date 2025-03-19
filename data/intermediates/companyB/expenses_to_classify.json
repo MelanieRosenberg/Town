@@ -1,0 +1,2162 @@
+[
+  {
+    "Date": "2024-02-05 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Flour Bakery",
+    "Memo/Description": "CHECKCARD 0205 TST* FLOUR BAKERY & CAF 617-714-3205 MA XXXXX4640XXXXXXXXXX1852 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1155.27,
+    "expense_id": 73
+  },
+  {
+    "Date": "2024-02-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "CHECKCARD 0207 SQ *BON ME - CATERING gosq.com MA XXXXX1640XXXXXXXXXX6162 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -509.01,
+    "expense_id": 77
+  },
+  {
+    "Date": "2024-02-12 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0210 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -27.94,
+    "expense_id": 88
+  },
+  {
+    "Date": "2024-02-12 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0212 EZCATERGIA MARIES PIZ XXXXX81803 MA XXXXX1540XXXXXXXXXX6482 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -344.35,
+    "expense_id": 93
+  },
+  {
+    "Date": "2024-02-12 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0212 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -42.69,
+    "expense_id": 95
+  },
+  {
+    "Date": "2024-02-12 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0212 EZCATEROTTO PIZZA XXXXX81803 MA XXXXX1540XXXXXXXXXX0959 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -489.63,
+    "expense_id": 98
+  },
+  {
+    "Date": "2024-02-12 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0210 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -77.07,
+    "expense_id": 99
+  },
+  {
+    "Date": "2024-02-13 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "CHECKCARD 0212 SQ *BON ME gosq.com MA XXXXX1640XXXXXXXXXX7342 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -433.87,
+    "expense_id": 102
+  },
+  {
+    "Date": "2024-02-13 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "CHECKCARD 0213 DD DOORDASH 7-ELEVEN 855-973-1040 CA XXXXX1540XXXXXXXXXX2663 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -28.29,
+    "expense_id": 105
+  },
+  {
+    "Date": "2024-02-13 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0212 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -152.91,
+    "expense_id": 106
+  },
+  {
+    "Date": "2024-02-14 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": NaN,
+    "Memo/Description": "BKOFAMERICA BC 02/14 #XXXXX3076 WITHDRWL 1414 Massachusett Cambridge MA",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -2705,
+    "expense_id": 109
+  },
+  {
+    "Date": "2024-02-14 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0214 EZCATERPINEAPPLE THAI XXXXX81803 MA XXXXX1540XXXXXXXXXX0149 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -702,
+    "expense_id": 111
+  },
+  {
+    "Date": "2024-02-14 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "ATM Purchase",
+    "Memo/Description": "BKOFAMERICA ATM 02/14 #XXXXX2957 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -350,
+    "expense_id": 112
+  },
+  {
+    "Date": "2024-02-14 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "ATM Purchase",
+    "Memo/Description": "BKOFAMERICA ATM 02/14 #XXXXX2956 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -300,
+    "expense_id": 113
+  },
+  {
+    "Date": "2024-02-14 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0213 EZCATERFIVE GUYS BURG XXXXX81803 MA XXXXX1540XXXXXXXXXX3700 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -509.68,
+    "expense_id": 114
+  },
+  {
+    "Date": "2024-02-14 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0213 DOORDASH DASHPASS WWW.DOORDASH.CA XXXXX3440XXXXXXXXXX1320 RECURRING CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -9.99,
+    "expense_id": 115
+  },
+  {
+    "Date": "2024-02-14 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0214 DD DOORDASH 7-ELEVEN 855-973-1040 CA XXXXX1540XXXXXXXXXX5546 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -24.22,
+    "expense_id": 117
+  },
+  {
+    "Date": "2024-02-14 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bruegger's Bagels",
+    "Memo/Description": "CHECKCARD 0213 BRUEGGERS CATERING BROOKLYN CENTMN XXXXX6640XXXXXXXXXX4291 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -465.89,
+    "expense_id": 118
+  },
+  {
+    "Date": "2024-02-15 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0215 EZCATERPINEAPPLE THAI XXXXX81803 MA XXXXX1540XXXXXXXXXX7321 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -702,
+    "expense_id": 120
+  },
+  {
+    "Date": "2024-02-15 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0215 EZCATERLOS AMIGOS TAQ XXXXX81803 MA XXXXX1540XXXXXXXXXX5975 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1185,
+    "expense_id": 126
+  },
+  {
+    "Date": "2024-02-15 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Wegmans",
+    "Memo/Description": "CHECKCARD 0214 WEGMANS.COM#134 MEDFORD 800-934-6267 MA XXXXX4640XXXXXXXXXX6271 RECURRING CKCD 5411 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -108.37,
+    "expense_id": 127
+  },
+  {
+    "Date": "2024-02-15 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Shake Shack",
+    "Memo/Description": "CHECKCARD 0213 SHAKE SHACK 1121 646-747-7200 MA XXXXX1640XXXXXXXXXX1200 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -538.76,
+    "expense_id": 128
+  },
+  {
+    "Date": "2024-02-16 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Instacart",
+    "Memo/Description": "CHECKCARD 0215 IC* INSTACART*1176 XXX-XX67822 CA XXXXX3840XXXXXXXXXX4068 CKCD 5411 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -108.53,
+    "expense_id": 131
+  },
+  {
+    "Date": "2024-02-20 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Domino's",
+    "Memo/Description": "CHECKCARD 0215 DOMINO'S 3748 617-721-6066 MA XXXXX0040XXXXXXXXXX6368 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -559.26,
+    "expense_id": 138
+  },
+  {
+    "Date": "2024-02-20 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0217 DD DOORDASH 7-ELEVEN 855-973-1040 CA XXXXX1540XXXXXXXXXX8436 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -23.22,
+    "expense_id": 140
+  },
+  {
+    "Date": "2024-02-20 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0217 DD DOORDASH 7-ELEVEN 855-973-1040 CA XXXXX1540XXXXXXXXXX1522 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -22.22,
+    "expense_id": 141
+  },
+  {
+    "Date": "2024-02-20 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0217 EZCATERSUBWAY XXXXX81803 MA XXXXX1540XXXXXXXXXX7788 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -857.44,
+    "expense_id": 149
+  },
+  {
+    "Date": "2024-02-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Le's",
+    "Memo/Description": "CHECKCARD 0215 LE'S CAMBRIDGE MA XXXXX3540XXXXXXXXXX5329 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -218,
+    "expense_id": 159
+  },
+  {
+    "Date": "2024-03-27 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "CHECKCARD 0326 SQ *BON ME - CATERING gosq.com MA XXXXX1640XXXXXXXXXX6246 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1327.93,
+    "expense_id": 204
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0404 EZCATEROTTO PIZZA XXXXX81803 MA XXXXX1540XXXXXXXXXX9032 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -289.75,
+    "expense_id": 226
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0404 EZCATERSTUBBYS XXXXX81803 MA XXXXX1540XXXXXXXXXX6907 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -159.5,
+    "expense_id": 227
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0404 EZCATEROTTO PIZZA XXXXX81803 MA XXXXX1540XXXXXXXXXX2821 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -666.35,
+    "expense_id": 228
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0404 DD DOORDASH OTTOPIZZA 855-973-1040 CA XXXXX1540XXXXXXXXXX9553 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -152.48,
+    "expense_id": 229
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0403 DD *DOORDASH DUMPLINGK WWW.DOORDASH.CA XXXXX3440XXXXXXXXXX5637 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -83.99,
+    "expense_id": 230
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0404 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -79.55,
+    "expense_id": 231
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0404 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -58.14,
+    "expense_id": 233
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0404 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -26.61,
+    "expense_id": 236
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Restaurant",
+    "Memo/Description": "BKOFAMERICA BC 04/04 #XXXXX6252 WITHDRWL 1414 Massachusett Cambridge MA",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -8775,
+    "expense_id": 246
+  },
+  {
+    "Date": "2024-04-05 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Ornico",
+    "Memo/Description": "MOBILE PURCHASE 0404 TST* ORINOCO A LATIN KI Cambridge MA XXXXX1640XXXXXXXXXX7565 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": -37,
+    "expense_id": 247
+  },
+  {
+    "Date": "2024-04-05 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0404 DD DOORDASH PAPAJOHNS 855-973-1040 CA XXXXX1540XXXXXXXXXX6356 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -36.23,
+    "expense_id": 248
+  },
+  {
+    "Date": "2024-04-05 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Tatte Bakery & Cafe",
+    "Memo/Description": "MOBILE PURCHASE 0405 TST* TATTE BAKERY CAMBRIDGE MA XXXXX4640XXXXXXXXXX9440 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -16.05,
+    "expense_id": 251
+  },
+  {
+    "Date": "2024-04-05 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0405 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -56.64,
+    "expense_id": 253
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0405 DD DOORDASH CVS 855-973-1040 CA XXXXX1540XXXXXXXXXX8248 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -43.41,
+    "expense_id": 259
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Maharaja",
+    "Memo/Description": "CHECKCARD 0404 TST* MAHARAJA Cambridge MA XXXXX1640XXXXXXXXXX4539 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -432.07,
+    "expense_id": 262
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "CMS Vending",
+    "Memo/Description": "MOBILE PURCHASE 0407 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0040XXXXXXXXXX2225 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -2,
+    "expense_id": 267
+  },
+  {
+    "Date": "2024-04-09 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Sofra Bakery & Cafe",
+    "Memo/Description": "MOBILE PURCHASE 0408 TST* SOFRA Cambridge MA XXXXX1641XXXXXXXXXX7469 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -44.47,
+    "expense_id": 275
+  },
+  {
+    "Date": "2024-04-09 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Hudson News",
+    "Memo/Description": "MOBILE PURCHASE 0408 BOS HUDSON ST1933 BOSTON MA XXXXX0641XXXXXXXXXX3358 CKCD 5994 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -4.89,
+    "expense_id": 279
+  },
+  {
+    "Date": "2024-04-16 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Sarma Restaurant",
+    "Memo/Description": "CHECKCARD 0415 TST* SARMA RESTAURANT Somerville MA XXXXX1641XXXXXXXXXX6822 CKCD 5812 XXXXXXXXXX934866",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": -83,
+    "expense_id": 304
+  },
+  {
+    "Date": "2024-04-16 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "ATM Purchase",
+    "Memo/Description": "BKOFAMERICA ATM 04/16 #XXXXX3634 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX934866",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1000,
+    "expense_id": 305
+  },
+  {
+    "Date": "2024-04-16 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Faneuil Hall Marketplace",
+    "Memo/Description": "CHECKCARD 0415 FAN HALL MARKETPLACE WWW.FANEUILHAMA XXXXX3441XXXXXXXXXX2763 RECURRING CKCD 7991 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -5617.5,
+    "expense_id": 313
+  },
+  {
+    "Date": "2024-04-16 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Faneuil Hall Marketplace",
+    "Memo/Description": "CHECKCARD 0415 FAN HALL MARKETPLACE WWW.FANEUILHAMA XXXXX3441XXXXXXXXXX1933 RECURRING CKCD 7991 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1011.15,
+    "expense_id": 314
+  },
+  {
+    "Date": "2024-04-17 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0417 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -124.29,
+    "expense_id": 317
+  },
+  {
+    "Date": "2024-04-17 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "ATM Purchase",
+    "Memo/Description": "BKOFAMERICA ATM 04/17 #XXXXX6240 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX934866",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -700,
+    "expense_id": 319
+  },
+  {
+    "Date": "2024-04-17 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "ATM Purchase",
+    "Memo/Description": "BKOFAMERICA ATM 04/17 #XXXXX6238 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX934866",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -20,
+    "expense_id": 326
+  },
+  {
+    "Date": "2024-04-17 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "haley.henry",
+    "Memo/Description": "MOBILE PURCHASE 0416 TST* HALEY HENRY BOSTON MA XXXXX4641XXXXXXXXXX4350 CKCD 5813 XXXXXXXXXX579901",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": -71.13,
+    "expense_id": 328
+  },
+  {
+    "Date": "2024-04-17 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Klein's Deli",
+    "Memo/Description": "MOBILE PURCHASE 0416 TST* KLEINS DELI E SAN MATEO CA XXXXX4641XXXXXXXXXX2112 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": -28.88,
+    "expense_id": 330
+  },
+  {
+    "Date": "2024-04-17 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "TIGER SUGAR",
+    "Memo/Description": "MOBILE PURCHASE 0417 TIGER SUGAR (CAMBRIDGE XXX-XX305592 IL XXXXX1641XXXXXXXXXX8198 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": -7.26,
+    "expense_id": 332
+  },
+  {
+    "Date": "2024-04-17 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "ATM Purchase",
+    "Memo/Description": "BKOFAMERICA ATM 04/17 #XXXXX6239 WITHDRWL HARVARD SQUARE CAMBRIDGE MA CKCD XXXXXXXXXX934866",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -280,
+    "expense_id": 334
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0418 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -98.09,
+    "expense_id": 336
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0418 EZCATERCAFE LANDWER XXXXX81803 MA XXXXX1541XXXXXXXXXX6210 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -373,
+    "expense_id": 339
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Pinocchio's Pizza",
+    "Memo/Description": "MOBILE PURCHASE 0416 Pinocchio's Pizza CAMBRIDGE MA XXXXX8041XXXXXXXXXX1585 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -19.15,
+    "expense_id": 343
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0418 DD DOORDASH HENCHICKE 855-973-1040 CA XXXXX1541XXXXXXXXXX1437 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -28.04,
+    "expense_id": 345
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0418 DD DOORDASH TATTEBAKE 855-973-1040 CA XXXXX1541XXXXXXXXXX6905 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -76.8,
+    "expense_id": 347
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0417 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX8125 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -63.82,
+    "expense_id": 348
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0418 EZCATERSUBWAY XXXXX81803 MA XXXXX1541XXXXXXXXXX2567 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -470.96,
+    "expense_id": 358
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0418 EZCATERSUBWAY XXXXX81803 MA XXXXX1541XXXXXXXXXX1159 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -356.08,
+    "expense_id": 359
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0418 EZCATERSUBWAY XXXXX81803 MA XXXXX1541XXXXXXXXXX2011 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -356.08,
+    "expense_id": 360
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0418 EZCATERSUBWAY XXXXX81803 MA XXXXX1541XXXXXXXXXX6465 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -234.78,
+    "expense_id": 361
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0418 EZCATERCAFE LANDWER XXXXX81803 MA XXXXX1541XXXXXXXXXX4528 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -197,
+    "expense_id": 362
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0418 EZCATERCAFE LANDWER XXXXX81803 MA XXXXX1541XXXXXXXXXX4185 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -195,
+    "expense_id": 363
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Sugar & SpiceThai Restaurant",
+    "Memo/Description": "MOBILE PURCHASE 0416 TST* SUGAR & SPICE - CA Cambridge MA XXXXX1641XXXXXXXXXX0496 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -150.97,
+    "expense_id": 364
+  },
+  {
+    "Date": "2024-04-18 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0418 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -123.75,
+    "expense_id": 365
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0418 DD *DOORDASH CVS WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX7990 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -286.37,
+    "expense_id": 367
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "MOBILE PURCHASE 0418 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1641XXXXXXXXXX0138 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -126.84,
+    "expense_id": 368
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0418 EZCATERWENDYS XXXXX81803 MA XXXXX1541XXXXXXXXXX3181 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -2594.32,
+    "expense_id": 373
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "PURCHASE 0419 UBER EATS HELP.UBER.COMCA XXXXX1541XXXXXXXXXX1165 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -130.13,
+    "expense_id": 374
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "MOBILE PURCHASE 0418 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1641XXXXXXXXXX7598 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -28,
+    "expense_id": 376
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "MOBILE PURCHASE 0418 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1641XXXXXXXXXX7484 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -28,
+    "expense_id": 377
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0418 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -24.52,
+    "expense_id": 378
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0419 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -22.04,
+    "expense_id": 379
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0418 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -20.53,
+    "expense_id": 380
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0418 DD DOORDASH YIFANGTAI 855-973-1040 CA XXXXX1541XXXXXXXXXX6293 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -12.75,
+    "expense_id": 384
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0418 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -3.07,
+    "expense_id": 385
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "CMS Vending",
+    "Memo/Description": "MOBILE PURCHASE 0418 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0041XXXXXXXXXX5447 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -2,
+    "expense_id": 388
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Restaurant",
+    "Memo/Description": "BKOFAMERICA BC 04/19 #XXXXX2558 WITHDRWL 1414 Massachusett Cambridge MA",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -3795,
+    "expense_id": 389
+  },
+  {
+    "Date": "2024-04-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0419 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -4.4,
+    "expense_id": 391
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0421 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX7546 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -65.33,
+    "expense_id": 392
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0419 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX4033 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -93.39,
+    "expense_id": 393
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0419 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX4444 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -101.74,
+    "expense_id": 394
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0420 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -149.5,
+    "expense_id": 395
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "PURCHASE 0421 UBER EATS HELP.UBER.COMCA XXXXX1541XXXXXXXXXX7997 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -167.36,
+    "expense_id": 396
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0420 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -182.56,
+    "expense_id": 397
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "CMS Vending",
+    "Memo/Description": "MOBILE PURCHASE 0420 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0041XXXXXXXXXX6770 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -2.25,
+    "expense_id": 399
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "CMS Vending",
+    "Memo/Description": "MOBILE PURCHASE 0420 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0041XXXXXXXXXX7018 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -2,
+    "expense_id": 400
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "PURCHASE 0420 UBER EATS HELP.UBER.COMCA XXXXX1541XXXXXXXXXX8772 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -259.56,
+    "expense_id": 402
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0421 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -340.78,
+    "expense_id": 403
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0420 EZCATERBOLOCO XXXXX81803 MA XXXXX1541XXXXXXXXXX8524 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1100,
+    "expense_id": 406
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0420 EZCATERIN BETWEEN SAN XXXXX81803 MA XXXXX1541XXXXXXXXXX8759 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -3196.3,
+    "expense_id": 407
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0420 EZCATERINSOMNIA COOKI XXXXX81803 MA XXXXX1541XXXXXXXXXX3338 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -840,
+    "expense_id": 408
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0420 EZCATERBOARDWALK PIZZ XXXXX81803 MA XXXXX1541XXXXXXXXXX7125 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1950.7,
+    "expense_id": 409
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "PURCHASE 0420 UBER EATS HELP.UBER.COMCA XXXXX1541XXXXXXXXXX8160 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -268.17,
+    "expense_id": 410
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "CHECKCARD 0419 SQ *BON ME - CATERING gosq.com MA XXXXX1641XXXXXXXXXX4203 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -3280.87,
+    "expense_id": 411
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "CMS Vending",
+    "Memo/Description": "MOBILE PURCHASE 0420 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0041XXXXXXXXXX6937 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -2,
+    "expense_id": 418
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "CMS Vending",
+    "Memo/Description": "MOBILE PURCHASE 0420 CMSVEND*ACKERS VENDING DORCHESTER MA XXXXX0041XXXXXXXXXX6853 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -2.25,
+    "expense_id": 419
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Russell House Tavern",
+    "Memo/Description": "CHECKCARD 0418 TST* RUSSELL HOUSE TAVE Cambridge MA XXXXX1641XXXXXXXXXX2222 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -798.72,
+    "expense_id": 422
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0421 EZCATERBOLOCO XXXXX81803 MA XXXXX1541XXXXXXXXXX0595 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1070,
+    "expense_id": 424
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0420 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX5370 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -48.19,
+    "expense_id": 429
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 0420 UBER *EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -15,
+    "expense_id": 439
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "CHECKCARD 0420 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1641XXXXXXXXXX3624 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -14,
+    "expense_id": 440
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0421 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX0430 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -48.69,
+    "expense_id": 444
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0422 DD DOORDASH J.P.LICKS 855-973-1040 CA XXXXX1541XXXXXXXXXX2111 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -51.5,
+    "expense_id": 445
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0422 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX1569 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -62.67,
+    "expense_id": 446
+  },
+  {
+    "Date": "2024-04-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "PURCHASE 0421 UBER EATS HELP.UBER.COMCA XXXXX1541XXXXXXXXXX3916 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -64.17,
+    "expense_id": 447
+  },
+  {
+    "Date": "2024-04-23 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0422 DD *DOORDASH TOUSLESJO WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX3906 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -64.08,
+    "expense_id": 448
+  },
+  {
+    "Date": "2024-04-23 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 0423 EZCATERSUBWAY XXXXX81803 MA XXXXX1541XXXXXXXXXX7692 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -33.03,
+    "expense_id": 450
+  },
+  {
+    "Date": "2024-04-23 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Shake Shack",
+    "Memo/Description": "CHECKCARD 0421 SHAKE SHACK 1121 646-747-7200 MA XXXXX1641XXXXXXXXXX2271 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -548.27,
+    "expense_id": 451
+  },
+  {
+    "Date": "2024-04-23 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": NaN,
+    "Memo/Description": "MOBILE PURCHASE 0422 ASIAN GARDEN RESTAURAN XXX-XX305592 IL XXXXX1641XXXXXXXXXX9264 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -296.33,
+    "expense_id": 452
+  },
+  {
+    "Date": "2024-04-23 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 0423 DD *DOORDASH BJSWHOLES WWW.DOORDASH.CA XXXXX3441XXXXXXXXXX5871 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -62.76,
+    "expense_id": 462
+  },
+  {
+    "Date": "2024-04-24 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Hudson News",
+    "Memo/Description": "MOBILE PURCHASE 0423 BOS HUDSON ST1933 BOSTON MA XXXXX0641XXXXXXXXXX7796 CKCD 5994 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -5.49,
+    "expense_id": 468
+  },
+  {
+    "Date": "2024-04-25 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Starbucks",
+    "Memo/Description": "MOBILE PURCHASE 0423 STARBUCKS TERM B PIER EAST BOSTON MA XXXXX1641XXXXXXXXXX2677 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": -6.9,
+    "expense_id": 472
+  },
+  {
+    "Date": "2024-04-29 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Le's",
+    "Memo/Description": "CHECKCARD 0422 LE'S CAMBRIDGE MA XXXXX3541XXXXXXXXXX3002 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -352.96,
+    "expense_id": 488
+  },
+  {
+    "Date": "2024-08-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Costco",
+    "Memo/Description": "MOBILE PURCHASE 0807 COSTCO WHSE #1042 REDWOOD CITY CA XXXXX0042XXXXXXXXXX7035 CKCD 5300 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -399.95,
+    "expense_id": 600
+  },
+  {
+    "Date": "2024-09-12 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Tastes on the Fly",
+    "Memo/Description": "MOBILE PURCHASE 0911 TST* TASTES ON THE FLY- SAN MATEO CA XXXXX4642XXXXXXXXXX8068 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": -59.66,
+    "expense_id": 640
+  },
+  {
+    "Date": "2024-10-21 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Faneuil Hall Marketplace",
+    "Memo/Description": "CHECKCARD 1019 FAN HALL MARKETPLACE WWW.FANEUILHAMA XXXXX3442XXXXXXXXXX5133 RECURRING CKCD 7991 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1273.3,
+    "expense_id": 664
+  },
+  {
+    "Date": "2024-10-21 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Tasty Burger",
+    "Memo/Description": "CHECKCARD 1019 TST*TASTY BURGER - HARV 617-714-1590 MA XXXXX1642XXXXXXXXXX2344 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -847.18,
+    "expense_id": 665
+  },
+  {
+    "Date": "2024-10-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Wegmans",
+    "Memo/Description": "CHECKCARD 1021 WEGMANS.COM#134 MEDFORD 800-934-6267 MA XXXXX4642XXXXXXXXXX3089 RECURRING CKCD 5411 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -329.04,
+    "expense_id": 666
+  },
+  {
+    "Date": "2024-10-23 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Wegmans",
+    "Memo/Description": "PURCHASE 1022 WEGMANS.COM#134 MEDFORD 800-934-6267 MA XXXXX4642XXXXXXXXXX7229 RECURRING CKCD 5411 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -669.29,
+    "expense_id": 667
+  },
+  {
+    "Date": "2024-10-24 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": NaN,
+    "Memo/Description": NaN,
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -21.39,
+    "expense_id": 669
+  },
+  {
+    "Date": "2024-10-24 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Wegmans",
+    "Memo/Description": "PURCHASE 1023 WEGMANS.COM#134 MEDFORD 800-934-6267 MA XXXXX4642XXXXXXXXXX7363 RECURRING CKCD 5411 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -669.29,
+    "expense_id": 670
+  },
+  {
+    "Date": "2024-10-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": NaN,
+    "Memo/Description": NaN,
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -223.08,
+    "expense_id": 671
+  },
+  {
+    "Date": "2024-10-28 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Restaurant",
+    "Memo/Description": "BKOFAMERICA BC 10/26 #XXXXX5427 WITHDRWL 1414 Massachusett Cambridge MA",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1260,
+    "expense_id": 677
+  },
+  {
+    "Date": "2024-10-28 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Koi Palace",
+    "Memo/Description": "MOBILE PURCHASE 1024 TST*KOI PALACE EXPRESS San FranciscoCA XXXXX1642XXXXXXXXXX7064 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": -10.32,
+    "expense_id": 678
+  },
+  {
+    "Date": "2024-10-28 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "MOBILE PURCHASE 1026 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1643XXXXXXXXXX4526 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -12,
+    "expense_id": 679
+  },
+  {
+    "Date": "2024-10-28 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Mo'Rockin Fusion",
+    "Memo/Description": "MOBILE PURCHASE 1027 SQ *MO'ROCKIN FUSION Boston MA XXXXX1643XXXXXXXXXX8831 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -14.93,
+    "expense_id": 680
+  },
+  {
+    "Date": "2024-10-28 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Mo'Rockin Fusion",
+    "Memo/Description": "MOBILE PURCHASE 1027 SQ *MO'ROCKIN FUSION Boston MA XXXXX1643XXXXXXXXXX2008 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -16.53,
+    "expense_id": 681
+  },
+  {
+    "Date": "2024-10-28 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Domino's",
+    "Memo/Description": "CHECKCARD 1025 DOMINO'S 3741 BOSTON MA XXXXX0043XXXXXXXXXX9061 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -112.24,
+    "expense_id": 683
+  },
+  {
+    "Date": "2024-10-28 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Domino's",
+    "Memo/Description": "CHECKCARD 1025 DOMINO'S 3793 WALTHAM MA XXXXX0043XXXXXXXXXX8980 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -350.03,
+    "expense_id": 684
+  },
+  {
+    "Date": "2024-10-28 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Red Apple Farm",
+    "Memo/Description": "MOBILE PURCHASE 1027 NNT RED APPLE BOSTON MA CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -4.28,
+    "expense_id": 689
+  },
+  {
+    "Date": "2024-10-28 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "BEANTOWN PASTRAMI CO",
+    "Memo/Description": "MOBILE PURCHASE 1027 SQ *BEANTOWN PASTRAMI C Boston MA XXXXX1643XXXXXXXXXX2126 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -17.07,
+    "expense_id": 690
+  },
+  {
+    "Date": "2024-10-29 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Fantuan",
+    "Memo/Description": "PURCHASE 1028 FANTUAN DELIVERY HTTPSWWW.FANTCA XXXXX3443XXXXXXXXXX6306 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": -123.29,
+    "expense_id": 693
+  },
+  {
+    "Date": "2024-10-29 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Fantuan",
+    "Memo/Description": "PURCHASE 1028 FANTUAN DELIVERY HTTPSWWW.FANTCA XXXXX3443XXXXXXXXXX1813 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": -127.36,
+    "expense_id": 699
+  },
+  {
+    "Date": "2024-10-29 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 1029 EZCATER*POLLO CAMPERO 800-488-1803 MA XXXXX2943XXXXXXXXXX7240 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -979.62,
+    "expense_id": 700
+  },
+  {
+    "Date": "2024-10-29 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": "MRA-AY3",
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 1030 EZCATER*PAPA JOHNS 800-488-1803 MA XXXXX2943XXXXXXXXXX6072 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -642.63,
+    "expense_id": 701
+  },
+  {
+    "Date": "2024-10-29 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 1028 EZCATER*BON ME 800-488-1803 MA XXXXX2943XXXXXXXXXX6533 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -760.91,
+    "expense_id": 702
+  },
+  {
+    "Date": "2024-10-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 1029 DD *DOORDASH OTTOPIZZA WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX9803 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -54.34,
+    "expense_id": 706
+  },
+  {
+    "Date": "2024-10-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 1030 DD *DOORDASH SWEETGREE WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX7139 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -27.98,
+    "expense_id": 708
+  },
+  {
+    "Date": "2024-10-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 1030 DD *DOORDASH 7-ELEVEN WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX6360 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -6.35,
+    "expense_id": 709
+  },
+  {
+    "Date": "2024-10-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Uber Eats",
+    "Memo/Description": "CHECKCARD 1029 UBER * EATS San FranciscoCA CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -31.41,
+    "expense_id": 710
+  },
+  {
+    "Date": "2024-10-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Clover Food Lab",
+    "Memo/Description": "MOBILE PURCHASE 1029 SQ *CLOVER FOOD LAB Cambridge MA XXXXX1643XXXXXXXXXX6710 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -5.3,
+    "expense_id": 711
+  },
+  {
+    "Date": "2024-10-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "MOBILE PURCHASE 1029 SQ *BON ME - HARVARD PL Cambridge MA XXXXX1643XXXXXXXXXX8846 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -42.25,
+    "expense_id": 712
+  },
+  {
+    "Date": "2024-10-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Ripple Cafe",
+    "Memo/Description": "MOBILE PURCHASE 1028 TST*RIPPLE CAFE - CAMBR Cambridge MA XXXXX1643XXXXXXXXXX9690 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -4.92,
+    "expense_id": 713
+  },
+  {
+    "Date": "2024-10-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 1029 EZCATER*SUBWAY 800-488-1803 MA XXXXX2943XXXXXXXXXX3621 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -923.31,
+    "expense_id": 715
+  },
+  {
+    "Date": "2024-10-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 1030 DD *DOORDASH MIKESPAST WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX8088 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -53.13,
+    "expense_id": 716
+  },
+  {
+    "Date": "2024-10-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Dig Inn",
+    "Memo/Description": "PURCHASE 1029 DIG.. HTTPSDIG.OLO.MA XXXXX3443XXXXXXXXXX6371 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -16.74,
+    "expense_id": 717
+  },
+  {
+    "Date": "2024-10-31 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Yorkside Pizza & Restaurant",
+    "Memo/Description": "YORKSIDE PIZZA 10/30 #XXXXX9178 MOBILE PURCHASE YORKSIDE PIZZA RE NEW HAVEN CT CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -24.4,
+    "expense_id": 723
+  },
+  {
+    "Date": "2024-10-31 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 1030 EZCATER*WENDYS 800-488-1803 MA XXXXX2943XXXXXXXXXX0512 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -713.3,
+    "expense_id": 725
+  },
+  {
+    "Date": "2024-10-31 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Yorkside Pizza & Restaurant",
+    "Memo/Description": "YORKSIDE PIZZA 10/31 #XXXXX3400 MOBILE PURCHASE YORKSIDE PIZZA RE NEW HAVEN CT CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -740.2,
+    "expense_id": 726
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 1101 DD *DOORDASH STARMARKE WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX3730 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -8.85,
+    "expense_id": 728
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "PURCHASE 1101 DD *DDDOORDASHSTARMARK WWW.DOORDASH.CA XXXXX3443XXXXXXXXXX7540 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -7.44,
+    "expense_id": 730
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 1031 EZCATER*FELIPES TAQUER 800-488-1803 MA XXXXX2943XXXXXXXXXX7669 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -573.38,
+    "expense_id": 732
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Yale Dining",
+    "Memo/Description": "CHECKCARD 1031 Yale Dining NEW HAVEN CT XXXXX3943XXXXXXXXXX4541 CKCD 8220 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -257.64,
+    "expense_id": 733
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Yale Dining",
+    "Memo/Description": "CHECKCARD 1031 Yale Dining NEW HAVEN CT XXXXX3943XXXXXXXXXX4558 CKCD 8220 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -257.64,
+    "expense_id": 734
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Yale Dining",
+    "Memo/Description": "CHECKCARD 1031 Yale Dining NEW HAVEN CT XXXXX3943XXXXXXXXXX4350 CKCD 8220 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -17.18,
+    "expense_id": 740
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "EzCater",
+    "Memo/Description": "PURCHASE 1101 EZCATER*APPLEBEES 800-488-1803 MA XXXXX2943XXXXXXXXXX7768 CKCD 5811 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -595.4,
+    "expense_id": 741
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Yale Dining",
+    "Memo/Description": "CHECKCARD 1031 Yale Dining NEW HAVEN CT XXXXX3943XXXXXXXXXX4343 CKCD 8220 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -257.64,
+    "expense_id": 742
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Dig Inn",
+    "Memo/Description": "MOBILE PURCHASE 1031 TST* DIG INN- HARVARD S CAMBRIDGE MA XXXXX4643XXXXXXXXXX1955 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -16.21,
+    "expense_id": 743
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Cava",
+    "Memo/Description": "MOBILE PURCHASE 1031 10078 CAVA KENDALL SQR CAMBRIDGE MA XXXXX1643XXXXXXXXXX1728 CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -22.79,
+    "expense_id": 744
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Yale Dining",
+    "Memo/Description": "MOBILE PURCHASE 1031 Yale Dining NEW HAVEN CT XXXXX3943XXXXXXXXXX7381 CKCD 8220 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -15.19,
+    "expense_id": 745
+  },
+  {
+    "Date": "2024-11-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Starbucks",
+    "Memo/Description": "MOBILE PURCHASE 1031 STARBUCKS STORE 00810 CAMBRIDGE MA XXXXX1643XXXXXXXXXX5087 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -5.83,
+    "expense_id": 751
+  },
+  {
+    "Date": "2024-12-02 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Domino's",
+    "Memo/Description": "CHECKCARD 1201 MPX*DOMINO'S PIZZA 800-421-4655 IL XXXXX1643XXXXXXXXXX8783 CKCD 5814 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -100,
+    "expense_id": 786
+  },
+  {
+    "Date": "2024-12-30 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Fantuan",
+    "Memo/Description": "PURCHASE 1227 FANTUAN DELIVERY HTTPSWWW.FANTCA XXXXX3443XXXXXXXXXX4266 RECURRING CKCD 5812 XXXXXXXXXX579901",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -9.99,
+    "expense_id": 839
+  },
+  {
+    "Date": "2024-02-13 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": NaN,
+    "Memo/Description": NaN,
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -64.13,
+    "expense_id": 872
+  },
+  {
+    "Date": "2024-02-21 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": NaN,
+    "Memo/Description": NaN,
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": -1080,
+    "expense_id": 885
+  },
+  {
+    "Date": "2024-02-13 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Foodium Garden",
+    "Memo/Description": "PHO( FOODIUM GARDEN BR ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 43.59,
+    "expense_id": 1036
+  },
+  {
+    "Date": "2024-02-13 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Willoughbys",
+    "Memo/Description": "WILLOUGHBYS-CHURCH ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 26.51,
+    "expense_id": 1037
+  },
+  {
+    "Date": "2024-02-15 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Clover Food Lab",
+    "Memo/Description": "SQ *CLOVER FOOD LAB ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 3.74,
+    "expense_id": 1047
+  },
+  {
+    "Date": "2024-02-15 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bibim Box",
+    "Memo/Description": "SQ *BIBIM BOX ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 86.14,
+    "expense_id": 1058
+  },
+  {
+    "Date": "2024-02-16 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Clover Food Lab",
+    "Memo/Description": "SQ *CLOVER FOOD LAB ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 139.89,
+    "expense_id": 1064
+  },
+  {
+    "Date": "2024-02-16 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Clover Food Lab",
+    "Memo/Description": "SQ *CLOVER FOOD LAB ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 62.27,
+    "expense_id": 1065
+  },
+  {
+    "Date": "2024-02-16 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "DD *DOORDASH BJSWHOLES ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 36.81,
+    "expense_id": 1066
+  },
+  {
+    "Date": "2024-02-16 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Commons Cofe",
+    "Memo/Description": "HARVARD COMMONS CAFE ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 2.25,
+    "expense_id": 1067
+  },
+  {
+    "Date": "2024-02-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Happy Donuts",
+    "Memo/Description": "SQ *UNION SQUARE DONUT ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 10.88,
+    "expense_id": 1069
+  },
+  {
+    "Date": "2024-02-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Ripple Cafe",
+    "Memo/Description": "TST* RIPPLE CAFE - CAM ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 5.35,
+    "expense_id": 1071
+  },
+  {
+    "Date": "2024-02-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Union Oyster House",
+    "Memo/Description": "UNION OYSTER HOUSE ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 832.47,
+    "expense_id": 1074
+  },
+  {
+    "Date": "2024-02-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "DD *DOORDASH JOESPIZZA ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 391.31,
+    "expense_id": 1075
+  },
+  {
+    "Date": "2024-02-19 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Central Perk Coffee Co",
+    "Memo/Description": "Central Perk Boston ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 18.53,
+    "expense_id": 1077
+  },
+  {
+    "Date": "2024-03-22 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Spangler",
+    "Memo/Description": "HBS SPANGLER GRILL QPS ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 15.05,
+    "expense_id": 1084
+  },
+  {
+    "Date": "2024-03-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Spangler",
+    "Memo/Description": "HBS SPANGLER GRILL QPS ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 7.35,
+    "expense_id": 1087
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Dynasty",
+    "Memo/Description": "DYNASTY ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 131.32,
+    "expense_id": 1092
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Shu Da Xia Hot Pot",
+    "Memo/Description": "SHU DA XIA HOT POT ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 189.06,
+    "expense_id": 1093
+  },
+  {
+    "Date": "2024-04-04 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Flour Stone",
+    "Memo/Description": "HWH DX07 FLOUR STONE ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 50.05,
+    "expense_id": 1094
+  },
+  {
+    "Date": "2024-04-05 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "DoorDash",
+    "Memo/Description": "DD *DOORDASH 7-ELEVEN ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 125.92,
+    "expense_id": 1095
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Spangler",
+    "Memo/Description": "HBS SPANGLER FD COUQPS ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 2.95,
+    "expense_id": 1097
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Spangler",
+    "Memo/Description": "HBS SPANGLER FD COUQPS ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 4.2,
+    "expense_id": 1098
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Kitchen & Drinks",
+    "Memo/Description": "TST* KITCHEN & DRINKS ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 200.05,
+    "expense_id": 1099
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Tasty Burger",
+    "Memo/Description": "TST* TASTY BURGER - HA ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 17.99,
+    "expense_id": 1100
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Bon Me",
+    "Memo/Description": "SQ *BON ME ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 18.99,
+    "expense_id": 1101
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Pavement Coffeehouse - Newbury",
+    "Memo/Description": "TST* PAVEMENT COFFEEHO ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 20.33,
+    "expense_id": 1102
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Tasty Burger",
+    "Memo/Description": "TST* TASTY BURGER - HA ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 136.8,
+    "expense_id": 1103
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Maharaja",
+    "Memo/Description": "TST* MAHARAJA ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 243.58,
+    "expense_id": 1106
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Blue Bottle Coffee",
+    "Memo/Description": "SQ *BLUE BOTTLE COFFEE ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 7.49,
+    "expense_id": 1109
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Starbucks",
+    "Memo/Description": "STARBUCKS STORE 69597 ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 8.77,
+    "expense_id": 1110
+  },
+  {
+    "Date": "2024-04-08 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Tasty Burger",
+    "Memo/Description": "TST* TASTY BURGER - HA ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 17.99,
+    "expense_id": 1113
+  },
+  {
+    "Date": "2024-04-11 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Tatte Bakery & Cafe",
+    "Memo/Description": "TST* TATTE BAKERY ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 13.91,
+    "expense_id": 1122
+  },
+  {
+    "Date": "2024-04-15 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Le's",
+    "Memo/Description": "LE'S ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 134.69,
+    "expense_id": 1123
+  },
+  {
+    "Date": "2024-04-15 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Le's",
+    "Memo/Description": "LE'S ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 17.66,
+    "expense_id": 1125
+  },
+  {
+    "Date": "2024-08-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Grab a Dog",
+    "Memo/Description": "Grab* A-6QHDXEGWWG6H ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 6.17,
+    "expense_id": 1137
+  },
+  {
+    "Date": "2024-08-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Grab a Dog",
+    "Memo/Description": "Grab* A-6Q8AGX7WWGWA ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 8.63,
+    "expense_id": 1138
+  },
+  {
+    "Date": "2024-08-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Grab a Dog",
+    "Memo/Description": "Grab* A-6QGIA3PWWHBB ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 3.92,
+    "expense_id": 1140
+  },
+  {
+    "Date": "2024-08-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Grab a Dog",
+    "Memo/Description": "Grab* A-6Q9ITGVGWISK ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 2.92,
+    "expense_id": 1141
+  },
+  {
+    "Date": "2024-08-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Grab a Dog",
+    "Memo/Description": "Grab* A-6Q9W2IBGWJCF ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 3.04,
+    "expense_id": 1143
+  },
+  {
+    "Date": "2024-08-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Grab a Dog",
+    "Memo/Description": "Grab* A-6QDHTDBGWI8B ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 3.13,
+    "expense_id": 1149
+  },
+  {
+    "Date": "2024-08-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Grab a Dog",
+    "Memo/Description": "Grab* A-6Q8AGX7WWGWA ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 1.21,
+    "expense_id": 1152
+  },
+  {
+    "Date": "2024-08-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Grab a Dog",
+    "Memo/Description": "Grab* A-6QCBI6MWWJ83 ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 2.79,
+    "expense_id": 1153
+  },
+  {
+    "Date": "2024-08-26 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Grab a Dog",
+    "Memo/Description": "Grab* A-6QGTW2MGWEIH ON CC 2490",
+    "Split": "Meals & Entertainment:Meals",
+    "Amount": 2.54,
+    "expense_id": 1155
+  },
+  {
+    "Date": "2024-11-01 00:00:00",
+    "Transaction Type": "Expense",
+    "Num": NaN,
+    "Name": "Heirloom Cafe",
+    "Memo/Description": "HEIRLOOM RESTAURANT ON CC 2490",
+    "Split": "Program MECE Cost:MECE Meals",
+    "Amount": 43.53,
+    "expense_id": 1163
+  }
+]

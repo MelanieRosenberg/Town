@@ -1,0 +1,47 @@
+{
+  "companies": {
+    "A": {
+      "column_names": [
+        "Date",
+        "Transaction Type",
+        "Num",
+        "Adj",
+        "Name",
+        "Memo/Description",
+        "Split",
+        "Amount",
+        "Balance"
+      ],
+      "filter": {
+        "column": "Split",
+        "values": [
+          "6250 General & Administrative:Meals & Entertainment"
+        ]
+      },
+      "eval_set": true,
+      "primary_city": "New York City"
+    },
+    "B": {
+      "column_names": [
+        "Date",
+        "Transaction Type",
+        "Num",
+        "Adj",
+        "Name",
+        "Memo/Description",
+        "Split",
+        "Amount",
+        "Balance"
+      ],
+      "filter": {
+        "column": "Split",
+        "values": [
+          "Program MECE Cost:MECE Meals",
+          "Meals & Entertainment:Meals"
+        ]
+      },
+      "eval_set": false,
+      "primary_city": "Cambridge, MA"
+    }
+  }
+} 

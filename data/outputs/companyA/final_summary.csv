@@ -1,0 +1,5 @@
+Group,Transactions,Unique Vendors,Total Expenses,Total Deductions
+deductible: 0%,668,299,$111,058.67,$0.00
+deductible: 50%,2845,521,$206,067.65,$103,033.83
+deductible: 100%,0,0,$0.00,$0.00
+total,3513,820,$317,126.32,$103,033.83
