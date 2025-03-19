@@ -31,8 +31,8 @@ def evaluate_zero_deductible_accuracy(company_id):
     company_config = config["companies"][company_id]
     
     # Check if evaluation is enabled for this company
-    if not company_config.get("eval", False):
-        print(f"\nEvaluation skipped for Company {company_id} (eval=False in config)")
+    if not company_config.get("eval_set", True):
+        print(f"\nEvaluation skipped for Company {company_id} (eval_set=False in config)")
         return
     
     # Define paths
