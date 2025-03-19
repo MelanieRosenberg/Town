@@ -38,7 +38,7 @@ data/
 ## Usage
 
 Run the classification pipeline for a specific company:
-```bash
+```
 ./command.sh <company_id>
 ```
 For example: `./command.sh A` for Company A
