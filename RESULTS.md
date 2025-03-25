@@ -8,9 +8,9 @@
 - Accuracy: 96.6%
 
 **Error Analysis:**
-The system misclassified only 2 vendors, both entertainment venues with names suggesting food service:
+The system misclassified only 2 vendors, both entertainment venues/bars with names possibly suggesting food service:
 - The Social at Midtown (classified as 50% deductible - "Identified as a restaurant through targeted research")
-- Barcelona Wine Bar (classified as 50% deductible - "Restaurant that primarily offers food with wine as a secondary offering")
+- Barcelona Wine Bar (classified as 50% deductible - "Restaurant that primarily offers food with wine as a secondary offering") - this one is clearly wrong.
 
 **50% Deductible Classification:**
 - No formal evaluation data available
