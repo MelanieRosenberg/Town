@@ -1,520 +1,65 @@
 [
   {
+    "vendor_name": "Flour Bakery",
     "business_type": "Bakery & Cafe",
     "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Flour Bakery in Cambridge, MA is a bakery and cafe, indicating that food is the primary offering.",
+    "deduction_rate": 0.005,
+    "reason": "The vendor 'Flour Bakery' is a bakery and cafe, which primarily offers food items. A targeted search on 'Flour Bakery Cambridge, MA' confirms it is a bakery and cafe.",
     "confidence": "high",
-    "vendor_name": "Flour Bakery"
+    "date": ""
   },
   {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Bon Me is a restaurant in Cambridge, MA known for its Asian-inspired cuisine.",
-    "confidence": "high",
-    "vendor_name": "Bon Me"
-  },
-  {
-    "business_type": "Food delivery service",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Uber Eats is a food delivery service that primarily offers meals from various restaurants. The transaction details specifically mention 'UBER *EATS', indicating a meal-related expense.",
-    "confidence": "high",
-    "vendor_name": "Uber Eats"
-  },
-  {
-    "business_type": "Catering",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor EzCater is a catering service based on the transaction details indicating purchases of food items like pizza and Thai food. EzCater provides catering services rather than operating a restaurant or cafe.",
-    "confidence": "high",
-    "vendor_name": "EzCater"
-  },
-  {
-    "business_type": "Food delivery service",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "DoorDash is a food delivery service that partners with restaurants to deliver meals to customers. The transaction details indicate purchases made through DoorDash for food delivery services.",
-    "confidence": "high",
-    "vendor_name": "DoorDash"
-  },
-  {
-    "business_type": "Bank of America ATM",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "The transaction details indicate a withdrawal from a Bank of America ATM in Cambridge, MA, suggesting it is not a restaurant or employee event.",
-    "confidence": "high",
-    "vendor_name": "Unknown Vendor (ID: 109)",
-    "expense_id": 109
-  },
-  {
-    "business_type": "ATM Purchase",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "The vendor is an ATM Purchase, which indicates it is related to financial transactions rather than a food or event-related business. The transaction details confirm ATM withdrawals in Harvard Square, Cambridge, MA, further supporting the classification as entertainment.",
-    "confidence": "high",
-    "vendor_name": "ATM Purchase"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Bruegger's Bagels is a well-known chain of bagel bakeries that primarily focuses on food offerings.",
-    "confidence": "high",
-    "vendor_name": "Bruegger's Bagels"
-  },
-  {
-    "business_type": "Grocery Store",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Wegmans is a well-known grocery store chain that offers a variety of food products, including prepared meals and groceries. The transaction details indicate purchases made on Wegmans' website, which aligns with grocery store offerings.",
-    "confidence": "high",
-    "vendor_name": "Wegmans"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Shake Shack is a well-known fast-casual restaurant chain specializing in burgers, fries, and shakes.",
-    "confidence": "high",
-    "vendor_name": "Shake Shack"
-  },
-  {
+    "vendor_name": "Instacart",
     "business_type": "Online grocery delivery service",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Instacart is an online platform that primarily offers grocery delivery services, indicating a focus on meals. The transaction details also suggest a payment related to a food purchase.",
-    "confidence": "high",
-    "vendor_name": "Instacart"
-  },
-  {
-    "business_type": "Pizza restaurant chain",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Domino's is a well-known pizza restaurant chain with multiple locations, and the transaction details indicate purchases at different Domino's branches in Massachusetts.",
-    "confidence": "high",
-    "vendor_name": "Domino's"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor Le's in Cambridge, MA is identified as a restaurant through targeted research. Restaurants typically offer meals as their primary service.",
-    "confidence": "high",
-    "vendor_name": "Le's"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor is a restaurant based on the transaction details mentioning withdrawals at a specific address in Cambridge, MA. Restaurants primarily offer meals, making it eligible for a 50% deduction rate.",
-    "confidence": "high",
-    "vendor_name": "Restaurant"
-  },
-  {
-    "business_type": "Latin American Kitchen",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor Ornico is a Latin American Kitchen based on the transaction details mentioning 'TST* ORINOCO A LATIN KI'. Latin American Kitchens primarily offer food, indicating a meals classification.",
-    "confidence": "high",
-    "vendor_name": "Ornico"
-  },
-  {
-    "business_type": "Bakery & Cafe",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Tatte Bakery & Cafe in Cambridge, MA primarily offers food items like baked goods and coffee, indicating a meals classification.",
-    "confidence": "high",
-    "vendor_name": "Tatte Bakery & Cafe"
-  },
-  {
-    "business_type": "Indian Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor Maharaja in Cambridge, MA is an Indian restaurant based on targeted research. The transaction details also indicate food-related purchases.",
-    "confidence": "high",
-    "vendor_name": "Maharaja"
-  },
-  {
-    "business_type": "Vending Machine Services",
     "classification": "entertainment",
     "deduction_rate": 0.0,
-    "reason": "The vendor, CMS Vending, is likely providing vending machine services based on the transaction details mentioning 'ACKERS VENDING'. Vending machine services fall under the entertainment category.",
+    "reason": "Instacart is an online platform for grocery delivery services, which falls under the category of entertainment as it provides a convenience service rather than a primary meal offering.",
     "confidence": "high",
-    "vendor_name": "CMS Vending"
+    "date": ""
   },
   {
-    "business_type": "Bakery & Cafe",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Sofra Bakery & Cafe in Cambridge, MA is primarily a food establishment offering bakery and cafe services.",
-    "confidence": "high",
-    "vendor_name": "Sofra Bakery & Cafe"
-  },
-  {
-    "business_type": "Newsstand",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "Hudson News is a well-known newsstand chain that primarily sells newspapers, magazines, and convenience items at transportation hubs like airports and train stations.",
-    "confidence": "high",
-    "vendor_name": "Hudson News"
-  },
-  {
+    "vendor_name": "Sarma Restaurant",
     "business_type": "Restaurant",
     "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor is identified as Sarma Restaurant, indicating a clear focus on providing meals. The transaction details also mention 'SARMA RESTAURANT', further confirming the nature of the business.",
+    "deduction_rate": 0.005,
+    "reason": "The vendor name 'Sarma Restaurant' clearly indicates a restaurant. Further research confirms it is a restaurant in Cambridge, MA, specializing in Mediterranean cuisine.",
     "confidence": "high",
-    "vendor_name": "Sarma Restaurant"
+    "date": ""
   },
   {
-    "business_type": "Shopping and Dining Destination",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "Faneuil Hall Marketplace in Cambridge, MA is a historic shopping and dining destination with various shops, restaurants, and entertainment venues.",
-    "confidence": "high",
-    "vendor_name": "Faneuil Hall Marketplace"
-  },
-  {
-    "business_type": "Wine Bar",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "The vendor 'haley.henry' in Cambridge, MA is a wine bar based on targeted research. Wine bars are classified as entertainment for tax deduction purposes.",
-    "confidence": "high",
-    "vendor_name": "haley.henry"
-  },
-  {
-    "business_type": "Deli",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor is identified as Klein's Deli, indicating a food-focused establishment. The transaction description also mentions 'KLEINS DELI', further supporting the classification as a place primarily offering meals.",
-    "confidence": "high",
-    "vendor_name": "Klein's Deli"
-  },
-  {
-    "business_type": "Bubble Tea Shop",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "TIGER SUGAR is a well-known bubble tea shop chain that specializes in beverages and snacks.",
-    "confidence": "high",
-    "vendor_name": "TIGER SUGAR"
-  },
-  {
-    "business_type": "Pizza restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor, Pinocchio's Pizza, is a pizza restaurant based on targeted research. The transaction details also indicate a purchase at a specific location, confirming it is a food establishment.",
-    "confidence": "high",
-    "vendor_name": "Pinocchio's Pizza"
-  },
-  {
-    "business_type": "Thai Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor is identified as Sugar & Spice Thai Restaurant, indicating a clear focus on food service.",
-    "confidence": "high",
-    "vendor_name": "Sugar & SpiceThai Restaurant"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Russell House Tavern' in Cambridge, MA is a well-known restaurant offering meals. Further research confirms it is a dining establishment.",
-    "confidence": "high",
-    "vendor_name": "Russell House Tavern"
-  },
-  {
-    "business_type": "Asian Garden Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The transaction details indicate a purchase at Asian Garden Restaurant, suggesting it is a food establishment.",
-    "confidence": "high",
-    "vendor_name": "Unknown Vendor (ID: 452)",
-    "expense_id": 452
-  },
-  {
-    "business_type": "Coffee Shop Chain",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor is Starbucks, a well-known coffee shop chain. The transaction details indicate purchases at Starbucks stores in Cambridge, MA, which primarily offer food and beverages.",
-    "confidence": "high",
-    "vendor_name": "Starbucks"
-  },
-  {
+    "vendor_name": "Costco",
     "business_type": "Warehouse Club",
     "classification": "entertainment",
     "deduction_rate": 0.0,
-    "reason": "Costco is a warehouse club known for selling a wide variety of products in bulk, including groceries and household items. The transaction description also indicates a purchase at a warehouse location.",
+    "reason": "Costco is a warehouse club known for selling a wide variety of products in bulk, including groceries, electronics, and household items.",
     "confidence": "high",
-    "vendor_name": "Costco"
+    "date": ""
   },
   {
-    "business_type": "Airport restaurant chain",
+    "vendor_name": "Cava",
+    "business_type": "Fast-casual Mediterranean restaurant chain",
     "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Tastes on the Fly is an airport restaurant chain known for its various dining options in airports across the country. The transaction description also indicates a mobile purchase, further supporting the restaurant nature of the business.",
+    "deduction_rate": 0.005,
+    "reason": "Cava is a fast-casual restaurant chain known for its Mediterranean cuisine, indicating a primary offering of food.",
     "confidence": "high",
-    "vendor_name": "Tastes on the Fly"
+    "date": ""
   },
   {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Tasty Burger' in Cambridge, MA is a restaurant based on targeted research. The transaction details also indicate food purchases ('Tasty Burger').",
-    "confidence": "high",
-    "vendor_name": "Tasty Burger"
-  },
-  {
-    "business_type": "Unknown Vendor",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "Due to lack of specific business type information and transaction details, defaulting to entertainment category.",
-    "confidence": "low",
-    "vendor_name": "Unknown Vendor (ID: 669)",
-    "expense_id": 669
-  },
-  {
-    "business_type": "Unknown Vendor",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "Due to lack of specific business type information and transaction details, defaulting to entertainment category.",
-    "confidence": "low",
-    "vendor_name": "Unknown Vendor (ID: 671)",
-    "expense_id": 671
-  },
-  {
-    "business_type": "Chinese restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Koi Palace' is a well-known Chinese restaurant chain with locations in California. The transaction details indicate a purchase from 'Koi Palace Express', confirming it is a restaurant.",
-    "confidence": "high",
-    "vendor_name": "Koi Palace"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Mo'Rockin Fusion' in Cambridge, MA is identified as a restaurant through targeted research. The transaction details indicate food purchases, suggesting that the primary offering is meals.",
-    "confidence": "high",
-    "vendor_name": "Mo'Rockin Fusion"
-  },
-  {
-    "business_type": "Farm",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "Red Apple Farm is a farm based on targeted research. Farms are classified as entertainment for tax deduction purposes.",
-    "confidence": "high",
-    "vendor_name": "Red Apple Farm"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'BEANTOWN PASTRAMI CO' in Cambridge, MA is a restaurant based on the name and transaction details indicating a food purchase. Pastrami is a type of food, suggesting a primary offering of meals.",
-    "confidence": "high",
-    "vendor_name": "BEANTOWN PASTRAMI CO"
-  },
-  {
-    "business_type": "Food delivery service",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor Fantuan is a food delivery service based on the transaction details mentioning 'FANTUAN DELIVERY'. This indicates that the primary offering is food delivery, making it fall under the meals category.",
-    "confidence": "high",
-    "vendor_name": "Fantuan"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Clover Food Lab is a well-known restaurant chain specializing in vegetarian and vegan cuisine. The transaction details clearly indicate purchases at their Cambridge, MA location, confirming it as a restaurant.",
-    "confidence": "high",
-    "vendor_name": "Clover Food Lab"
-  },
-  {
-    "business_type": "Cafe",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Ripple Cafe' indicates a cafe which primarily offers food. The transaction details also mention 'MOBILE PURCHASE' and 'CC', indicating food purchases.",
-    "confidence": "high",
-    "vendor_name": "Ripple Cafe"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Dig Inn is a chain of fast-casual restaurants known for its focus on healthy and locally-sourced ingredients. The transactions indicate purchases at Dig Inn locations in Cambridge, MA, which aligns with their restaurant business model.",
-    "confidence": "high",
-    "vendor_name": "Dig Inn"
-  },
-  {
-    "business_type": "Pizza & Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor, Yorkside Pizza & Restaurant, clearly indicates a food service establishment. Further research on Yorkside Pizza & Restaurant in Cambridge, MA confirms it is a restaurant.",
-    "confidence": "high",
-    "vendor_name": "Yorkside Pizza & Restaurant"
-  },
-  {
-    "business_type": "University Dining Services",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Yale Dining is a dining service associated with Yale University, offering meals to students, faculty, and staff.",
-    "confidence": "high",
-    "vendor_name": "Yale Dining"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Cava' in Cambridge, MA is a restaurant chain known for Mediterranean cuisine. The transaction details indicate a purchase at Cava Kendall Square, confirming it as a restaurant.",
-    "confidence": "high",
-    "vendor_name": "Cava"
-  },
-  {
-    "business_type": "Unknown Vendor",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "Due to the lack of specific information about the vendor and transaction details, it is classified as entertainment by default.",
-    "confidence": "low",
-    "vendor_name": "Unknown Vendor (ID: 872)",
-    "expense_id": 872
-  },
-  {
-    "business_type": "Unknown Vendor",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "Due to lack of specific business type information and transaction details, defaulting to entertainment category.",
-    "confidence": "low",
-    "vendor_name": "Unknown Vendor (ID: 885)",
-    "expense_id": 885
-  },
-  {
-    "business_type": "Vietnamese restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Foodium Garden' in Cambridge, MA is a Vietnamese restaurant based on targeted research. The transaction details 'PHO( FOODIUM GARDEN BR ON CC 2490' indicate a food purchase, specifically 'PHO' which is a Vietnamese noodle soup.",
-    "confidence": "high",
-    "vendor_name": "Foodium Garden"
-  },
-  {
-    "business_type": "Church",
-    "classification": "entertainment",
-    "deduction_rate": 0.0,
-    "reason": "The transaction details indicate 'WILLOUGHBYS-CHURCH ON CC 2490', suggesting that the vendor is a church, which falls under the entertainment category for tax deduction purposes.",
-    "confidence": "high",
-    "vendor_name": "Willoughbys"
-  },
-  {
+    "vendor_name": "Bibim Box",
     "business_type": "Korean restaurant",
     "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Bibim Box' in Cambridge, MA is a Korean restaurant based on targeted research. The transaction description 'SQ *BIBIM BOX ON CC 2490' further supports this classification as it indicates a food purchase.",
+    "deduction_rate": 0.005,
+    "reason": "Based on targeted research, Bibim Box is a Korean restaurant in Cambridge, MA.",
     "confidence": "high",
-    "vendor_name": "Bibim Box"
+    "date": ""
   },
   {
-    "business_type": "Coffee Shop",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Commons Cofe' in Cambridge, MA is likely a coffee shop based on the transaction details mentioning 'HARVARD COMMONS CAFE'. Coffee shops primarily offer food and beverages, making them fall under the MEALS category for tax deductions.",
-    "confidence": "high",
-    "vendor_name": "Commons Cofe"
-  },
-  {
-    "business_type": "Donut Shop",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Happy Donuts' is a clear indicator of a donut shop. The transaction details 'SQ *UNION SQUARE DONUT' further confirm the business type as a donut shop.",
-    "confidence": "high",
-    "vendor_name": "Happy Donuts"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Union Oyster House' is a historic restaurant in Boston, not Cambridge, known for its seafood offerings. The transaction description 'UNION OYSTER HOUSE ON CC 2490' further confirms it is a restaurant.",
-    "confidence": "high",
-    "vendor_name": "Union Oyster House"
-  },
-  {
-    "business_type": "Coffee shop",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor, Central Perk Coffee Co, is likely a coffee shop based on the name. Further research on Central Perk Coffee Co in Cambridge, MA confirms it is a coffee shop. The transaction details 'Central Perk Boston ON CC 2490' also suggest a food and beverage purchase.",
-    "confidence": "high",
-    "vendor_name": "Central Perk Coffee Co"
-  },
-  {
-    "business_type": "Harvard Business School Spangler Grill",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor, Spangler, located in Cambridge, MA, specifically operates the Harvard Business School Spangler Grill, indicating a food service establishment.",
-    "confidence": "high",
-    "vendor_name": "Spangler"
-  },
-  {
-    "business_type": "Chinese restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Dynasty' in Cambridge, MA is a Chinese restaurant based on targeted research. The transaction description 'DYNASTY ON CC 2490' suggests a meal purchase.",
-    "confidence": "high",
-    "vendor_name": "Dynasty"
-  },
-  {
-    "business_type": "Hot Pot Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Shu Da Xia Hot Pot' in Cambridge, MA is a hot pot restaurant based on the name and transaction details indicating a dining establishment.",
-    "confidence": "high",
-    "vendor_name": "Shu Da Xia Hot Pot"
-  },
-  {
-    "business_type": "Bakery or Cafe",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Based on the vendor name 'Flour Stone' and the transaction details mentioning 'FLOUR STONE', it is likely a bakery or cafe that primarily offers food items.",
-    "confidence": "medium",
-    "vendor_name": "Flour Stone"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Kitchen & Drinks' in Cambridge, MA is likely a restaurant based on the name. The transaction description 'TST* KITCHEN & DRINKS ON CC 2490' further supports this as it mentions 'Kitchen & Drinks'.",
-    "confidence": "high",
-    "vendor_name": "Kitchen & Drinks"
-  },
-  {
+    "vendor_name": "Pavement Coffeehouse - Newbury",
     "business_type": "Coffeehouse",
     "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Pavement Coffeehouse' in Cambridge, MA is a coffeehouse, which primarily offers food and beverages. The transaction details also indicate a coffeehouse purchase.",
+    "deduction_rate": 0.005,
+    "reason": "The vendor name indicates a coffeehouse, and further research confirms it is a coffee shop chain. Coffeehouses primarily offer food and beverages, making them eligible for the meals deduction.",
     "confidence": "high",
-    "vendor_name": "Pavement Coffeehouse - Newbury"
-  },
-  {
-    "business_type": "Coffee Shop",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "Blue Bottle Coffee is a well-known coffee shop chain with a focus on serving coffee and related items. The transaction description 'SQ *BLUE BOTTLE COFFEE' further confirms the primary offering of meals.",
-    "confidence": "high",
-    "vendor_name": "Blue Bottle Coffee"
-  },
-  {
-    "business_type": "Hot Dog Stand",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Grab a Dog' in Cambridge, MA likely operates as a hot dog stand based on the name. Hot dog stands primarily offer food, making them eligible for the meals deduction.",
-    "confidence": "medium",
-    "vendor_name": "Grab a Dog"
-  },
-  {
-    "business_type": "Restaurant",
-    "classification": "meals",
-    "deduction_rate": 0.5,
-    "reason": "The vendor 'Heirloom Cafe' in Cambridge, MA is a restaurant based on targeted research. The transaction details 'HEIRLOOM RESTAURANT' further confirm the primary offering of food.",
-    "confidence": "high",
-    "vendor_name": "Heirloom Cafe"
+    "date": ""
   }
 ]
